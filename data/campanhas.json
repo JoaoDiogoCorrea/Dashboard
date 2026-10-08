@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0fb2df79-aa99-4df4-bfee-882ebaccbc99",
+    "type": "promotional",
+    "coupon": "BLACKFRIDAY",
+    "discountAmount": 50,
+    "name": "Black Friday 2026",
+    "createdAt": "2026-03-01T12:00:00.000Z",
+    "updatedAt": "2026-03-01T12:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "719b00c0-1713-475d-9bc9-a16066314f58",
+    "type": "promotional",
+    "coupon": "NATAL25",
+    "discountAmount": 25,
+    "name": "Natal Solar",
+    "createdAt": "2026-03-10T13:00:00.000Z",
+    "updatedAt": "2026-03-10T13:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "c461b25f-ac1b-449c-9b37-1b8ee6f0499c",
+    "type": "collaborator",
+    "coupon": "COLAB100",
+    "discountAmount": 100,
+    "name": "Indicação Funcionário",
+    "createdAt": "2026-03-19T14:00:00.000Z",
+    "updatedAt": "2026-03-19T14:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "3a37decb-56d9-41b0-88be-de77d2766031",
+    "type": "partner",
+    "coupon": "VERDE30",
+    "discountAmount": 30,
+    "name": "Parceria Energia Verde",
+    "createdAt": "2026-03-28T15:00:00.000Z",
+    "updatedAt": "2026-03-28T15:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "87069f5f-3452-4f35-95c4-4e0fa30e3346",
+    "type": "promotional",
+    "coupon": "BEMVINDO",
+    "discountAmount": 15,
+    "name": "Boas-vindas",
+    "createdAt": "2026-04-06T16:00:00.000Z",
+    "updatedAt": "2026-04-06T16:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "957b6d2c-4abf-44e4-b919-0272fecdf0cf",
+    "type": "collaborator",
+    "coupon": "COLABSUL",
+    "discountAmount": 80,
+    "name": "Colaborador Sul",
+    "createdAt": "2026-04-15T17:00:00.000Z",
+    "updatedAt": "2026-04-15T17:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "d9e8030a-61dc-450e-a879-7c672ff8e65f",
+    "type": "partner",
+    "coupon": "ALFA40",
+    "discountAmount": 40,
+    "name": "Parceiro Construtora Alfa",
+    "createdAt": "2026-04-24T18:00:00.000Z",
+    "updatedAt": "2026-04-24T18:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "0a345640-8083-40c8-9fb7-214f4a344470",
+    "type": "promotional",
+    "coupon": "MAES20",
+    "discountAmount": 20,
+    "name": "Dia das Mães",
+    "createdAt": "2026-05-03T19:00:00.000Z",
+    "updatedAt": "2026-05-03T19:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "816a3de6-195d-4b95-ab0f-d4309715ed73",
+    "type": "partner",
+    "coupon": "BETA35",
+    "discountAmount": 35,
+    "name": "Parceiro Imobiliária Beta",
+    "createdAt": "2026-05-12T20:00:00.000Z",
+    "updatedAt": "2026-05-12T20:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "ee8bad5c-4dc0-43f9-8482-65f7380c7e03",
+    "type": "collaborator",
+    "coupon": "COMERCIAL60",
+    "discountAmount": 60,
+    "name": "Time Comercial",
+    "createdAt": "2026-05-21T21:00:00.000Z",
+    "updatedAt": "2026-05-21T21:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "fbe07ec3-660c-4118-86d8-5ad1e8c55776",
+    "type": "promotional",
+    "coupon": "METHA10",
+    "discountAmount": 10,
+    "name": "Aniversário Metha",
+    "createdAt": "2026-05-30T22:00:00.000Z",
+    "updatedAt": "2026-05-30T22:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "7f2a2826-35b6-4bec-9fcb-9f50b0642610",
+    "type": "partner",
+    "coupon": "COOP45",
+    "discountAmount": 45,
+    "name": "Parceria Cooperativa",
+    "createdAt": "2026-06-08T23:00:00.000Z",
+    "updatedAt": "2026-06-08T23:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "681c5107-3ddd-4e61-8941-b43b55842616",
+    "type": "promotional",
+    "coupon": "CYBER35",
+    "discountAmount": 35,
+    "name": "Cyber Monday",
+    "createdAt": "2026-06-18T00:00:00.000Z",
+    "updatedAt": "2026-06-18T00:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "94633e36-b31a-424d-89de-2d1cb6185abb",
+    "type": "collaborator",
+    "coupon": "COLABNE",
+    "discountAmount": 75,
+    "name": "Colaborador Nordeste",
+    "createdAt": "2026-06-27T01:00:00.000Z",
+    "updatedAt": "2026-06-27T01:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "6afebf8f-266e-4c43-86f5-d3a46c2a33bc",
+    "type": "promotional",
+    "coupon": "AULAS12",
+    "discountAmount": 12.5,
+    "name": "Volta às Aulas",
+    "createdAt": "2026-07-06T02:00:00.000Z",
+    "updatedAt": "2026-07-06T02:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "0972c081-cc57-487c-8bd8-c82c62a1bd25",
+    "type": "partner",
+    "coupon": "GAMA50",
+    "discountAmount": 50,
+    "name": "Parceiro Condomínio Gama",
+    "createdAt": "2026-07-15T03:00:00.000Z",
+    "updatedAt": "2026-07-15T03:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "359450e4-44d6-4075-95f1-199c9064c6ff",
+    "type": "promotional",
+    "coupon": "CONSUMIDOR",
+    "discountAmount": 18.9,
+    "name": "Semana do Consumidor",
+    "createdAt": "2026-07-24T04:00:00.000Z",
+    "updatedAt": "2026-07-24T04:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "729109ea-2863-48bf-a9be-3642be8426d6",
+    "type": "collaborator",
+    "coupon": "COLABSE",
+    "discountAmount": 90,
+    "name": "Colaborador Sudeste",
+    "createdAt": "2026-08-02T05:00:00.000Z",
+    "updatedAt": "2026-08-02T05:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "e3e738d6-2825-4da1-a9ee-e862f0ec0376",
+    "type": "partner",
+    "coupon": "DELTA25",
+    "discountAmount": 25,
+    "name": "Parceiro Shopping Delta",
+    "createdAt": "2026-08-11T06:00:00.000Z",
+    "updatedAt": "2026-08-11T06:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "5a0443b5-f2c7-44c1-970f-89286549ab56",
+    "type": "promotional",
+    "coupon": "INVERNO22",
+    "discountAmount": 22,
+    "name": "Campanha Inverno",
+    "createdAt": "2026-08-20T07:00:00.000Z",
+    "updatedAt": "2026-08-20T07:00:00.000Z",
+    "deleted": false
+  },
+  {
+    "id": "b8224bc0-001e-4b36-8a26-e98a2af1c1ae",
+    "type": "promotional",
+    "coupon": "ANTIGA5",
+    "discountAmount": 5,
+    "name": "Promo Antiga Excluída",
+    "createdAt": "2026-08-29T08:00:00.000Z",
+    "updatedAt": "2026-08-29T08:00:00.000Z",
+    "deleted": true
+  }
+]
