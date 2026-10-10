@@ -4,14 +4,40 @@ import { Megaphone, Plus, RotateCw } from '@lucide/vue'
 import { Button } from '@/components/ui/button'
 import { Skeleton } from '@/components/ui/skeleton'
 import CampanhasTable from '@/components/campanhas/CampanhasTable.vue'
+import CampanhaFormDialog from '@/components/campanhas/CampanhaFormDialog.vue'
 import CampanhaDeleteDialog from '@/components/campanhas/CampanhaDeleteDialog.vue'
-import type { Campanha } from '#shared/schemas/campanha'
+import type { Campanha, CampanhaInput } from '#shared/schemas/campanha'
 
 useHead({ title: 'Campanhas' })
 
 const store = useCampanhasStore()
 // Busca a lista a cada navegação para a página (SSR na primeira carga)
 await callOnce('campanhas', () => store.fetchAll(), { mode: 'navigation' })
+
+const formOpen = ref(false)
+const creating = ref(false)
+const formError = ref<string | null>(null)
+
+function openForm() {
+  formError.value = null
+  formOpen.value = true
+}
+
+async function createCampanha(input: CampanhaInput) {
+  creating.value = true
+  formError.value = null
+  try {
+    const created = await store.create(input)
+    toast.success(`Campanha "${created.name}" criada`)
+    formOpen.value = false
+  }
+  catch (e: any) {
+    formError.value = e?.statusMessage ?? e?.data?.statusMessage ?? 'Não foi possível criar a campanha'
+  }
+  finally {
+    creating.value = false
+  }
+}
 
 const toDelete = ref<Campanha | null>(null)
 const deleting = ref(false)
@@ -41,8 +67,7 @@ async function confirmDelete() {
         <h1 class="text-2xl font-semibold tracking-tight">Campanhas</h1>
         <p class="text-sm text-muted-foreground">Gerencie cupons e descontos das campanhas.</p>
       </div>
-      <!-- Criação ainda não implementada -->
-      <Button disabled title="Em breve">
+      <Button @click="openForm">
         <Plus class="size-4" /> Nova campanha
       </Button>
     </header>
@@ -69,7 +94,7 @@ async function confirmDelete() {
       <Megaphone class="mx-auto size-10 text-muted-foreground" />
       <p class="mt-3 font-medium">Nenhuma campanha cadastrada</p>
       <p class="text-sm text-muted-foreground">Crie a primeira campanha para começar.</p>
-      <Button class="mt-4" disabled title="Em breve">
+      <Button class="mt-4" @click="openForm">
         <Plus class="size-4" /> Nova campanha
       </Button>
     </div>
@@ -78,6 +103,11 @@ async function confirmDelete() {
     <div v-else class="rounded-xl border bg-background p-4 md:p-6">
       <CampanhasTable :data="store.items" @delete="toDelete = $event" />
     </div>
+
+    <CampanhaFormDialog
+      v-model:open="formOpen" :loading="creating" :server-error="formError"
+      @submit="createCampanha"
+    />
 
     <CampanhaDeleteDialog
       :campanha="toDelete" :loading="deleting"

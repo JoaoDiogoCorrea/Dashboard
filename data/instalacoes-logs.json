@@ -1,0 +1,5762 @@
+[
+  {
+    "id": "988971e0-5e9d-44e4-aacc-a9d6e0d1eda4",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "aa542116-a721-442a-8f69-8d3b3ddc78d4",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-05T09:59:32.160Z"
+  },
+  {
+    "id": "0943479c-1251-4417-940b-ef26ce237588",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "aa542116-a721-442a-8f69-8d3b3ddc78d4",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-01-05T13:56:02.115Z"
+  },
+  {
+    "id": "9791aafa-c679-4cb5-a14d-03b7378e0ee6",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "aa542116-a721-442a-8f69-8d3b3ddc78d4",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-01-07T15:14:57.651Z"
+  },
+  {
+    "id": "628fcdea-9998-4154-a558-450443078c93",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "aa542116-a721-442a-8f69-8d3b3ddc78d4",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-01-08T11:52:24.588Z"
+  },
+  {
+    "id": "46f73d86-79c6-4996-9427-4f4d92181d0f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "3e97a284-b440-42eb-88b7-9d68d5018f68",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-12T09:42:51.198Z"
+  },
+  {
+    "id": "2583da5f-7205-4f9a-a019-1e7e283370f1",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "3e97a284-b440-42eb-88b7-9d68d5018f68",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-01-12T18:18:31.284Z"
+  },
+  {
+    "id": "6cfab9bd-926e-41dd-ba83-ee7253d22ab3",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "a39d8bc2-e338-4b5f-9de3-03d17c037dcf",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-15T17:32:40.386Z"
+  },
+  {
+    "id": "36dad5e1-6326-433d-90a6-44f4eaf45bd0",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "a39d8bc2-e338-4b5f-9de3-03d17c037dcf",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-01-15T18:38:40.083Z"
+  },
+  {
+    "id": "ad265127-ea95-44e2-8cf0-44b4018f12c2",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "678363eb-7c0e-4c5a-bb2c-4d383d2485ea",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-16T02:11:54.513Z"
+  },
+  {
+    "id": "2a95fb8f-cd26-47a4-830c-aa74ee23a2a7",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "678363eb-7c0e-4c5a-bb2c-4d383d2485ea",
+    "actor": "Bruno Lima",
+    "reason": "address_not_covered",
+    "createdAt": "2026-01-16T15:23:25.529Z"
+  },
+  {
+    "id": "4fa78509-7870-40cd-9d46-66fe4bd63488",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "678363eb-7c0e-4c5a-bb2c-4d383d2485ea",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-01-17T07:18:40.062Z"
+  },
+  {
+    "id": "457771c3-7166-4fb2-b167-f2c34b0ebddd",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c64bd450-47ec-4908-abf4-a532c00e221b",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-17T22:56:33.593Z"
+  },
+  {
+    "id": "d6ee0d54-ca6a-4d60-9ab5-fd914cac0955",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f1210a07-e0d6-40e8-abd8-759dae6acc2a",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-18T06:41:15.905Z"
+  },
+  {
+    "id": "b359e9ac-4e7e-4670-b216-733c261e8dc0",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "dfc2e90c-ea28-46ca-81f5-437417ca55b0",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-19T03:46:22.893Z"
+  },
+  {
+    "id": "32c445ea-328d-47e4-ab75-f948ee8eaa2f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "96b65c16-8569-4a3c-9c57-0f38522c19c2",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-19T08:29:40.207Z"
+  },
+  {
+    "id": "85bbd76b-09d0-489e-9688-793b0cb21c7d",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "f1210a07-e0d6-40e8-abd8-759dae6acc2a",
+    "actor": "Bruno Lima",
+    "reason": "missing_documents",
+    "createdAt": "2026-01-19T11:01:57.765Z"
+  },
+  {
+    "id": "eff395e2-1c67-4927-b77b-577e9dc69590",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "c64bd450-47ec-4908-abf4-a532c00e221b",
+    "actor": "Carla Mendes",
+    "reason": "illegible_documents",
+    "createdAt": "2026-01-19T11:05:11.783Z"
+  },
+  {
+    "id": "8bf0e4dd-65be-4116-90c5-0f01b37b2183",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "678363eb-7c0e-4c5a-bb2c-4d383d2485ea",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-01-19T11:27:03.669Z"
+  },
+  {
+    "id": "be2aa31e-2e41-4edc-ba51-a771a99c0bd7",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "dfc2e90c-ea28-46ca-81f5-437417ca55b0",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-01-19T12:10:04.832Z"
+  },
+  {
+    "id": "ee6e25e9-f5ee-4b78-a8bc-f55fcc448361",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "96b65c16-8569-4a3c-9c57-0f38522c19c2",
+    "actor": "Bruno Lima",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-01-19T12:18:53.050Z"
+  },
+  {
+    "id": "34046c9f-4d94-4c47-a94a-49eb81a88c44",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "678363eb-7c0e-4c5a-bb2c-4d383d2485ea",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-01-20T22:09:33.781Z"
+  },
+  {
+    "id": "8b2a8ef0-02a1-4fe7-a458-c50072da3858",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "678363eb-7c0e-4c5a-bb2c-4d383d2485ea",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-01-21T12:04:51.997Z"
+  },
+  {
+    "id": "f09b5970-577b-4164-9bac-71d505af709d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "a3d2f785-314d-43db-a3be-4af40624c956",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-24T17:55:25.602Z"
+  },
+  {
+    "id": "5ceb90dd-3616-4f27-9851-c27c07ec694c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c64bd450-47ec-4908-abf4-a532c00e221b",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-01-25T01:01:32.044Z"
+  },
+  {
+    "id": "afe1e693-313f-4dd3-8baa-db5d5f016ac7",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f1210a07-e0d6-40e8-abd8-759dae6acc2a",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-01-26T05:51:38.731Z"
+  },
+  {
+    "id": "52008496-a151-454f-9588-310193e86f12",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "f1210a07-e0d6-40e8-abd8-759dae6acc2a",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-01-26T11:00:09.809Z"
+  },
+  {
+    "id": "8f9e774e-f90c-46ed-8f1d-c466022bb51f",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "a3d2f785-314d-43db-a3be-4af40624c956",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-01-26T11:20:45.139Z"
+  },
+  {
+    "id": "39fe2e5f-2c40-4324-b064-33650ef077e4",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "c64bd450-47ec-4908-abf4-a532c00e221b",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-01-26T11:28:26.037Z"
+  },
+  {
+    "id": "abb49a53-6e98-4f1a-a57c-a261e384f517",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "19f941c9-1a8a-4757-b04e-b731681c6f8b",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-26T17:52:26.596Z"
+  },
+  {
+    "id": "af333325-d4d0-49d7-8547-c5d18c382288",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "19f941c9-1a8a-4757-b04e-b731681c6f8b",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-01-27T12:44:18.917Z"
+  },
+  {
+    "id": "57aebe25-6510-484c-82fd-69956263b02e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ff53721f-f8ea-4d74-8bc4-b2fbc593e83e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-27T15:38:25.615Z"
+  },
+  {
+    "id": "b49918cb-c274-4b7e-b3fe-aad4913a6e9b",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "ff53721f-f8ea-4d74-8bc4-b2fbc593e83e",
+    "actor": "Diego Alves",
+    "reason": "missing_documents",
+    "createdAt": "2026-01-27T18:54:52.439Z"
+  },
+  {
+    "id": "56ffb575-fcb8-4177-91fb-76052baaab58",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c64bd450-47ec-4908-abf4-a532c00e221b",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-01-27T19:03:17.028Z"
+  },
+  {
+    "id": "3fdef67e-02e5-48ca-81f8-cb2144584bca",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "c64bd450-47ec-4908-abf4-a532c00e221b",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-01-28T12:06:51.507Z"
+  },
+  {
+    "id": "3fdb6ba5-df88-44db-9dda-7f437607bedb",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ff53721f-f8ea-4d74-8bc4-b2fbc593e83e",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-01-29T05:46:33.299Z"
+  },
+  {
+    "id": "2aef44f6-83b6-4ace-9a29-60f84fa39dd8",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "ff53721f-f8ea-4d74-8bc4-b2fbc593e83e",
+    "actor": "Diego Alves",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-01-29T18:48:57.108Z"
+  },
+  {
+    "id": "0b88af3d-91dc-40c5-8d11-ba418e42ca1a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d4322945-7f89-4342-b029-5c0241c1237a",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-30T16:41:35.342Z"
+  },
+  {
+    "id": "2369a443-0b8c-44dd-946c-9f154f856b60",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ff53721f-f8ea-4d74-8bc4-b2fbc593e83e",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-01-30T20:18:08.954Z"
+  },
+  {
+    "id": "8e537139-f4e3-4fa3-bc8b-0d123415a7e6",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f8d527b8-b8b1-4097-8a64-ae0670b93c0a",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-01-30T21:25:13.259Z"
+  },
+  {
+    "id": "8d30472a-0d86-43f7-8820-4c3a8612e1f5",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7c7412b5-3187-400c-9a16-43f6cf9a578d",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-02T01:07:59.497Z"
+  },
+  {
+    "id": "ebc61ece-7fdf-4baf-b4e5-7a84a0881fed",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "7c7412b5-3187-400c-9a16-43f6cf9a578d",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-02-02T11:21:15.253Z"
+  },
+  {
+    "id": "ca288303-dc5c-497a-adcd-3eeaaea9509e",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "ff53721f-f8ea-4d74-8bc4-b2fbc593e83e",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-02-02T11:26:24.411Z"
+  },
+  {
+    "id": "d604ba9f-f2c9-424f-8680-9932d1c998a1",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d4322945-7f89-4342-b029-5c0241c1237a",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-02-02T11:41:25.413Z"
+  },
+  {
+    "id": "11a68bf3-4e31-4582-9a38-3302e970f4dd",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "f8d527b8-b8b1-4097-8a64-ae0670b93c0a",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-02-02T11:49:36.928Z"
+  },
+  {
+    "id": "7f00e3a2-31e7-42dc-b252-fad2608b538e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f40bfe91-e908-40fe-ae57-e0e3db26f635",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-03T01:13:47.505Z"
+  },
+  {
+    "id": "6608ec18-a672-41ee-ab9d-116f848edfb6",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "f40bfe91-e908-40fe-ae57-e0e3db26f635",
+    "actor": "Bruno Lima",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-02-03T13:08:00.726Z"
+  },
+  {
+    "id": "d581e461-8aa0-41e1-805f-4da1d0c5a195",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "96b65c16-8569-4a3c-9c57-0f38522c19c2",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-05T05:33:20.887Z"
+  },
+  {
+    "id": "6062e44f-96c8-4684-b37a-83c293f9e19b",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "96b65c16-8569-4a3c-9c57-0f38522c19c2",
+    "actor": "Bruno Lima",
+    "reason": "illegible_documents",
+    "createdAt": "2026-02-05T13:08:48.964Z"
+  },
+  {
+    "id": "f2e9d279-6f9e-43d2-b12e-884006aa0437",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e775a53e-4092-45bb-b32f-f8bce37d3506",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-06T00:44:47.291Z"
+  },
+  {
+    "id": "c5bf0fcc-08e1-4c7d-83ad-d1312ba92697",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "96b65c16-8569-4a3c-9c57-0f38522c19c2",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-06T09:12:16.302Z"
+  },
+  {
+    "id": "2fdb20ce-71b1-463b-ab96-2954541681b4",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "e775a53e-4092-45bb-b32f-f8bce37d3506",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-02-06T11:34:45.174Z"
+  },
+  {
+    "id": "2d124317-8a1c-407b-aeb9-537083dfe339",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7355755e-adcf-4f8f-a861-6af0fcbf2ae1",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-06T19:33:47.045Z"
+  },
+  {
+    "id": "3c2577e1-e592-40cd-bfc8-a3eaf154832b",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "96b65c16-8569-4a3c-9c57-0f38522c19c2",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-02-06T19:44:10.196Z"
+  },
+  {
+    "id": "8667ebaf-1712-4fdf-a7c3-67194cedc3e1",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "218664ed-1278-4ff2-85dc-0dfb335540b8",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-08T11:16:04.281Z"
+  },
+  {
+    "id": "fd06cd09-380b-41bb-ad99-e80c8e7edec0",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e093cf5c-cdf7-4397-ba2c-37a07c5b4bca",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-08T12:58:03.591Z"
+  },
+  {
+    "id": "40663837-4fb3-4574-8033-d8cf91c67552",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "db40a5f1-7f74-405f-9fdb-ff72ff08ec4d",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-08T13:19:22.738Z"
+  },
+  {
+    "id": "bc855703-94e0-4fea-8ed7-069dd55313be",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b5f6361f-5f57-41fb-94e7-325393761cbe",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-08T22:35:36.066Z"
+  },
+  {
+    "id": "01d3612e-e944-46fd-ad0a-bbae4d15ef1e",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "7355755e-adcf-4f8f-a861-6af0fcbf2ae1",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-02-09T11:15:22.968Z"
+  },
+  {
+    "id": "56d7a84f-6281-4590-aba9-3bbf30134406",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "218664ed-1278-4ff2-85dc-0dfb335540b8",
+    "actor": "Bruno Lima",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-02-09T11:16:04.456Z"
+  },
+  {
+    "id": "210b0f9c-5ac5-43e5-85ac-cc83ddf7889f",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "e093cf5c-cdf7-4397-ba2c-37a07c5b4bca",
+    "actor": "Elisa Rocha",
+    "reason": "incomplete_registration",
+    "createdAt": "2026-02-09T11:53:32.802Z"
+  },
+  {
+    "id": "a759a313-dba8-44f6-a7c2-189e798c5fb6",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "db40a5f1-7f74-405f-9fdb-ff72ff08ec4d",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-02-09T12:04:37.419Z"
+  },
+  {
+    "id": "d5ead0ad-996e-4778-98f5-3d69ce104874",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b5f6361f-5f57-41fb-94e7-325393761cbe",
+    "actor": "Ana Souza",
+    "reason": "incomplete_registration",
+    "createdAt": "2026-02-09T12:18:47.493Z"
+  },
+  {
+    "id": "14282366-0533-49e2-817f-205483a7c110",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e093cf5c-cdf7-4397-ba2c-37a07c5b4bca",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-09T19:36:17.998Z"
+  },
+  {
+    "id": "0c78e14e-dc4e-4b4f-ba6a-77b327493002",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ba7b43db-138d-453a-8b3e-53b7a5537689",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-10T11:27:18.101Z"
+  },
+  {
+    "id": "d9b1213c-8e98-4e4b-b5dd-a7b0e413a75f",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "e093cf5c-cdf7-4397-ba2c-37a07c5b4bca",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-02-10T12:11:36.943Z"
+  },
+  {
+    "id": "80eed5b9-bcf0-430c-920b-18c22daed6c3",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "ba7b43db-138d-453a-8b3e-53b7a5537689",
+    "actor": "Ana Souza",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-02-10T19:39:25.552Z"
+  },
+  {
+    "id": "dd3c201f-66ec-44bf-ba4d-62eb8409da20",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0009269e-0899-4899-99bf-5931d710194e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-10T22:54:55.943Z"
+  },
+  {
+    "id": "29a001f8-eba2-4702-a8fa-15cc17f6754d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "84bb41e7-d85c-44e4-9fe8-270987162aac",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-11T03:43:03.994Z"
+  },
+  {
+    "id": "6a7a6779-a398-4d02-8489-beee65fcad47",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "84bb41e7-d85c-44e4-9fe8-270987162aac",
+    "actor": "Carla Mendes",
+    "reason": "illegible_documents",
+    "createdAt": "2026-02-11T11:17:58.922Z"
+  },
+  {
+    "id": "5217c3de-c74e-4abf-8b21-3237c3d7bbc1",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "0009269e-0899-4899-99bf-5931d710194e",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-02-11T11:27:27.452Z"
+  },
+  {
+    "id": "69ffb3d5-25a4-4648-bdfd-ade3b44c8801",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "af42bcf2-5cc4-4975-9452-0a44ba1c3d59",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-11T11:43:57.986Z"
+  },
+  {
+    "id": "ff06bcf0-85e1-40b5-bc8c-7e96a602785d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ba7b43db-138d-453a-8b3e-53b7a5537689",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-11T14:51:42.747Z"
+  },
+  {
+    "id": "482ab69a-ffb4-47ce-9a8f-42fc08426ef6",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "728663f0-1aea-4042-999d-9d5583fe0b38",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-11T16:04:32.604Z"
+  },
+  {
+    "id": "6de11b13-80e6-4d9a-be81-93f9bc79a602",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "728663f0-1aea-4042-999d-9d5583fe0b38",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-02-11T19:25:03.129Z"
+  },
+  {
+    "id": "ea2c2357-87b2-4c39-8956-6993ec8eb5b6",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "ba7b43db-138d-453a-8b3e-53b7a5537689",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-02-11T20:13:34.661Z"
+  },
+  {
+    "id": "1f4eaa72-a31a-4aa8-a236-235d179d8850",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "152ad2c9-2b8b-4b9f-9dbe-81ae7300b4b5",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-12T03:21:39.695Z"
+  },
+  {
+    "id": "13c56d0f-9cb8-49b0-82e4-937530fd7d81",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2c4d9773-df3c-4ea7-b5ff-79f975ae3c82",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-12T08:28:57.035Z"
+  },
+  {
+    "id": "c8bfb239-db75-48ae-b566-85a2d8e1596f",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "af42bcf2-5cc4-4975-9452-0a44ba1c3d59",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-02-12T11:38:30.098Z"
+  },
+  {
+    "id": "00e1a24b-306b-42bb-94ce-170abbd1beec",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "152ad2c9-2b8b-4b9f-9dbe-81ae7300b4b5",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-02-12T12:27:01.651Z"
+  },
+  {
+    "id": "6081c960-c63a-400c-902d-b26f74b5d23d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ba04a323-7211-40ef-9378-8d898fda6a61",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-13T12:05:40.420Z"
+  },
+  {
+    "id": "65bffb60-5c34-4f7e-9e2a-c79dcf4cd82c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0009269e-0899-4899-99bf-5931d710194e",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-13T12:30:07.751Z"
+  },
+  {
+    "id": "90eca8d0-9dc6-4c02-9d82-f3143f6baaab",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "0009269e-0899-4899-99bf-5931d710194e",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-02-13T13:11:13.313Z"
+  },
+  {
+    "id": "22d46ba8-a987-42e0-854b-d95330e10b82",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "84bb41e7-d85c-44e4-9fe8-270987162aac",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-13T16:42:45.952Z"
+  },
+  {
+    "id": "7f3a20f7-98b7-4bf7-910b-ef027537a860",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b5f6361f-5f57-41fb-94e7-325393761cbe",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-13T21:15:39.029Z"
+  },
+  {
+    "id": "71b5dd0b-9f98-443c-81a4-7378a9d5b402",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "db40a5f1-7f74-405f-9fdb-ff72ff08ec4d",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-15T08:00:16.985Z"
+  },
+  {
+    "id": "39ff4180-3687-49b9-976c-927f979d0028",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5223619f-1ee8-4433-bc0a-c0547bcc3934",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-16T11:06:02.675Z"
+  },
+  {
+    "id": "1c59bdbd-b1df-4f69-8b28-5d860b7d1563",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "db40a5f1-7f74-405f-9fdb-ff72ff08ec4d",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-02-16T11:14:53.503Z"
+  },
+  {
+    "id": "95b0fec5-12fe-41e1-871a-2fcf64b8a363",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "ba04a323-7211-40ef-9378-8d898fda6a61",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-02-16T11:33:38.974Z"
+  },
+  {
+    "id": "58a6242b-1eb6-4a68-b5a1-1f4f91a3aa12",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "2c4d9773-df3c-4ea7-b5ff-79f975ae3c82",
+    "actor": "Bruno Lima",
+    "reason": "address_not_covered",
+    "createdAt": "2026-02-16T11:58:43.955Z"
+  },
+  {
+    "id": "6808d031-0658-4620-9034-ad8b16bc3ad4",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b5f6361f-5f57-41fb-94e7-325393761cbe",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-02-16T11:59:36.555Z"
+  },
+  {
+    "id": "99802ee3-752b-4a87-9be3-43657c32a872",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "84bb41e7-d85c-44e4-9fe8-270987162aac",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-02-16T12:05:21.957Z"
+  },
+  {
+    "id": "1a56ef90-7bbc-4869-8256-802536ce0628",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "5223619f-1ee8-4433-bc0a-c0547bcc3934",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-02-16T13:05:47.035Z"
+  },
+  {
+    "id": "484544df-2509-49ec-9e35-1d121914d82f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "1c52398f-7cf1-4f15-9459-c9178f1ac46e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-16T20:01:02.974Z"
+  },
+  {
+    "id": "2c8ec3f3-fe46-47ec-b729-5ac9b8f03510",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "faed8746-1797-4ce4-8fa8-bbc1b0266b70",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-16T21:58:58.523Z"
+  },
+  {
+    "id": "eaf0714a-8071-4a69-8fe3-5c35c56319ed",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2c4d9773-df3c-4ea7-b5ff-79f975ae3c82",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-17T08:45:50.089Z"
+  },
+  {
+    "id": "e430f03a-0375-4df2-926e-baf1704183a5",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "1c52398f-7cf1-4f15-9459-c9178f1ac46e",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-02-17T12:34:47.752Z"
+  },
+  {
+    "id": "6708dcec-7b04-41bd-8196-68b5aa88e76f",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "faed8746-1797-4ce4-8fa8-bbc1b0266b70",
+    "actor": "Bruno Lima",
+    "reason": "missing_documents",
+    "createdAt": "2026-02-17T13:20:28.174Z"
+  },
+  {
+    "id": "4b463f41-0419-40db-b4c5-8271aa23c7b4",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "728663f0-1aea-4042-999d-9d5583fe0b38",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-17T14:04:12.659Z"
+  },
+  {
+    "id": "c625315f-832b-40c2-9081-6d8475304b25",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "728663f0-1aea-4042-999d-9d5583fe0b38",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-02-17T18:04:46.284Z"
+  },
+  {
+    "id": "e01614cd-ae9e-49b9-959e-9d0cd23ba20a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "163cb634-d03b-45a2-9eaf-709b54c61ddd",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-17T18:41:55.266Z"
+  },
+  {
+    "id": "188dcf37-4055-452b-8251-86d1376e3954",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e0e44790-561d-4ba1-8e7c-af7752b8cc80",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-18T06:27:57.252Z"
+  },
+  {
+    "id": "9fd6b465-b600-4902-b979-8a8ea95785e3",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "15ffbe53-e59a-4f2b-b7ef-e3d537db2aff",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-18T09:59:39.768Z"
+  },
+  {
+    "id": "53333f2b-33bc-48e6-9622-16076d02b746",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "15ffbe53-e59a-4f2b-b7ef-e3d537db2aff",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-02-18T16:23:49.000Z"
+  },
+  {
+    "id": "4c0d35bb-94ed-4ddb-986f-c3f13d6f16d4",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "2c4d9773-df3c-4ea7-b5ff-79f975ae3c82",
+    "actor": "Bruno Lima",
+    "reason": "missing_documents",
+    "createdAt": "2026-02-18T17:52:03.180Z"
+  },
+  {
+    "id": "7b0c9495-ee0b-4602-9958-554ea4fbdff2",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "163cb634-d03b-45a2-9eaf-709b54c61ddd",
+    "actor": "Carla Mendes",
+    "reason": "illegible_documents",
+    "createdAt": "2026-02-19T11:09:34.790Z"
+  },
+  {
+    "id": "c7ca5692-b619-4c1a-be15-bd0a6f08c1cc",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "e0e44790-561d-4ba1-8e7c-af7752b8cc80",
+    "actor": "Elisa Rocha",
+    "reason": "illegible_documents",
+    "createdAt": "2026-02-19T11:13:21.198Z"
+  },
+  {
+    "id": "de34c23a-18e7-4ff9-8066-6b1cbda6afda",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "faed8746-1797-4ce4-8fa8-bbc1b0266b70",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-19T11:27:43.389Z"
+  },
+  {
+    "id": "1a90e21f-d5b0-41bb-8052-6b773e68fbbd",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "84bb41e7-d85c-44e4-9fe8-270987162aac",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-19T15:27:59.676Z"
+  },
+  {
+    "id": "06bab0c2-97fa-4205-bf62-37a76ac3b2f0",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "84bb41e7-d85c-44e4-9fe8-270987162aac",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-02-19T17:48:55.753Z"
+  },
+  {
+    "id": "a76a962d-0ed4-427f-b4ca-633eae534abc",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2c4d9773-df3c-4ea7-b5ff-79f975ae3c82",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-19T17:53:37.960Z"
+  },
+  {
+    "id": "739e45c6-10e3-444b-a8f5-5fa235e35fad",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e49a072b-9282-41df-834e-49dc9fd8d159",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-19T20:48:51.636Z"
+  },
+  {
+    "id": "f1a7f9ab-035e-480e-8017-bc7973459f05",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f4306d78-47e3-49d5-89b4-f68f93d78ff7",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-20T05:02:00.388Z"
+  },
+  {
+    "id": "3a949f24-9d1d-4b85-a198-9958b8bba79d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e0e44790-561d-4ba1-8e7c-af7752b8cc80",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-20T05:41:16.641Z"
+  },
+  {
+    "id": "cb20ad4a-32dc-4127-bf2c-acc909995acf",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "2c4d9773-df3c-4ea7-b5ff-79f975ae3c82",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-02-20T11:17:39.517Z"
+  },
+  {
+    "id": "cf1e3b48-5652-438c-9c8a-30f0807e384b",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "faed8746-1797-4ce4-8fa8-bbc1b0266b70",
+    "actor": "Bruno Lima",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-02-20T11:56:36.711Z"
+  },
+  {
+    "id": "ddb196de-d300-4cb3-8d9f-80e70b7b4cf7",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "e0e44790-561d-4ba1-8e7c-af7752b8cc80",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-02-20T12:17:27.748Z"
+  },
+  {
+    "id": "b9928f01-a015-4345-bb3b-db927b8ae943",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "e49a072b-9282-41df-834e-49dc9fd8d159",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-02-20T12:28:10.440Z"
+  },
+  {
+    "id": "a46ccf9f-0d41-4667-a662-b782388596cc",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "f4306d78-47e3-49d5-89b4-f68f93d78ff7",
+    "actor": "Diego Alves",
+    "reason": "address_not_covered",
+    "createdAt": "2026-02-20T17:30:42.150Z"
+  },
+  {
+    "id": "88bfb371-814b-4503-b238-d5e401e1dbd6",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "163cb634-d03b-45a2-9eaf-709b54c61ddd",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-20T19:41:49.665Z"
+  },
+  {
+    "id": "3b8780ef-99e2-46ad-a527-5a6529eb38fd",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "faed8746-1797-4ce4-8fa8-bbc1b0266b70",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-21T06:56:27.869Z"
+  },
+  {
+    "id": "49c4c69e-bf67-44f4-a8b2-c190c3f45b83",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "af0ecf6d-b12c-45f2-9198-272c1b6ed643",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-22T05:38:50.766Z"
+  },
+  {
+    "id": "fc8d2699-77b6-43b8-8db1-d3a9c4ce9196",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "984751bb-f920-4ebb-964f-3302f781a2a6",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-22T10:26:45.330Z"
+  },
+  {
+    "id": "cf6c72d8-1f47-4df6-b665-630d79be3546",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "984751bb-f920-4ebb-964f-3302f781a2a6",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-02-23T11:29:14.579Z"
+  },
+  {
+    "id": "879438ae-00a8-4e0d-b5fb-0e94977d97d4",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "af0ecf6d-b12c-45f2-9198-272c1b6ed643",
+    "actor": "Carla Mendes",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-02-23T11:52:25.822Z"
+  },
+  {
+    "id": "f85bb211-0920-46a1-88a4-5ac4c5e698a5",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "163cb634-d03b-45a2-9eaf-709b54c61ddd",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-02-23T11:59:25.426Z"
+  },
+  {
+    "id": "b6107a93-3712-4151-97f2-98c1c3332993",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "faed8746-1797-4ce4-8fa8-bbc1b0266b70",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-02-23T12:18:36.772Z"
+  },
+  {
+    "id": "64cdf448-0f12-4ce8-86bc-2f01aa703332",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f4306d78-47e3-49d5-89b4-f68f93d78ff7",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-25T19:46:23.467Z"
+  },
+  {
+    "id": "579c9112-bf63-4372-a29b-ef5d1a351181",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "11964260-d13f-4660-b632-0391e8477f3a",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-25T20:33:13.444Z"
+  },
+  {
+    "id": "3f90430f-7697-4609-b00d-4d1971330e9d",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "f4306d78-47e3-49d5-89b4-f68f93d78ff7",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-02-25T20:49:19.314Z"
+  },
+  {
+    "id": "b01b5725-076b-4288-836a-05d9448b877c",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "11964260-d13f-4660-b632-0391e8477f3a",
+    "actor": "Elisa Rocha",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-02-26T11:46:51.935Z"
+  },
+  {
+    "id": "6f556355-bb5c-4036-8bdd-d90e3d982faa",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "af0ecf6d-b12c-45f2-9198-272c1b6ed643",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-02-26T15:58:04.779Z"
+  },
+  {
+    "id": "5db09f4b-5f9b-4239-a3aa-d36cc1a55ece",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0553ba53-9132-4037-b82b-4ff93b58fa59",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-02-26T23:36:22.077Z"
+  },
+  {
+    "id": "c2b0b588-d7b5-416b-ae75-50c537ea6240",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "af0ecf6d-b12c-45f2-9198-272c1b6ed643",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-02-27T11:18:41.891Z"
+  },
+  {
+    "id": "f48eef57-ce24-4b94-9638-c383be407094",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "0553ba53-9132-4037-b82b-4ff93b58fa59",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-02-27T11:32:07.187Z"
+  },
+  {
+    "id": "42da033f-a80e-4118-baea-ba9a80e686cf",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "11964260-d13f-4660-b632-0391e8477f3a",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-03-01T10:43:33.502Z"
+  },
+  {
+    "id": "695e8697-2d1e-4cda-887d-d91b751f6311",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "af0ecf6d-b12c-45f2-9198-272c1b6ed643",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-03-02T06:33:11.574Z"
+  },
+  {
+    "id": "8d1c0828-46ec-4398-84dc-2ace46862548",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "11964260-d13f-4660-b632-0391e8477f3a",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-03-02T11:49:41.554Z"
+  },
+  {
+    "id": "b01c57a9-2290-4ff8-b48f-e1751e2a7cd8",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "af0ecf6d-b12c-45f2-9198-272c1b6ed643",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-03-02T16:14:51.466Z"
+  },
+  {
+    "id": "328ad564-0368-4977-953f-340697a25fb9",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2c076721-acbc-43fe-b800-8ea964cf21a6",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-04T04:07:38.040Z"
+  },
+  {
+    "id": "7ff3354b-3488-4980-8b03-c8848c904a12",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "1b64d767-07cb-4115-bd28-5f617c48e5ab",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-04T07:25:16.983Z"
+  },
+  {
+    "id": "3d24f068-c5cf-4a0a-8adf-5e9a706697a4",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "2c076721-acbc-43fe-b800-8ea964cf21a6",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-03-04T12:43:25.074Z"
+  },
+  {
+    "id": "c99e98d5-2aed-477d-85fe-a651ad524011",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "1b64d767-07cb-4115-bd28-5f617c48e5ab",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-03-04T14:23:53.508Z"
+  },
+  {
+    "id": "75bb7914-6bbb-4560-ae29-4b6e3bef5fed",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "a1876382-2a06-47ba-ad06-3fd561fd32fd",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-05T14:48:21.243Z"
+  },
+  {
+    "id": "b6db06db-75c5-4db1-a780-4e0271de4488",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "a1876382-2a06-47ba-ad06-3fd561fd32fd",
+    "actor": "Diego Alves",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-03-05T18:02:09.572Z"
+  },
+  {
+    "id": "821b053b-0eb2-4146-b8ba-28f4fd73a845",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "22351290-6a93-4a91-aa0e-9f9989fe4f70",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-06T04:33:11.760Z"
+  },
+  {
+    "id": "9b759fa1-3e3e-4202-afa6-1812262f4e46",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "22351290-6a93-4a91-aa0e-9f9989fe4f70",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-03-06T12:05:12.892Z"
+  },
+  {
+    "id": "95edb0d7-c19c-47ca-85e2-c50f2540a5e3",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "a1876382-2a06-47ba-ad06-3fd561fd32fd",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-03-08T14:54:01.386Z"
+  },
+  {
+    "id": "dd1dfa05-d9fa-4fff-91a3-4260d8dd3b72",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "a1876382-2a06-47ba-ad06-3fd561fd32fd",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-03-09T11:07:16.237Z"
+  },
+  {
+    "id": "ea97e33a-4da0-4308-b501-4e6a4a9dcee3",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2ca037e1-45fa-4d59-afa5-d438371b54cc",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-12T11:04:27.218Z"
+  },
+  {
+    "id": "2d480527-6b24-4b02-8ab9-2a7ec37b5edd",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "2ca037e1-45fa-4d59-afa5-d438371b54cc",
+    "actor": "Diego Alves",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-03-12T19:29:52.888Z"
+  },
+  {
+    "id": "687de721-a797-4c43-99ae-16c3d38b857e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "761391a4-e7a5-4080-82dd-1910ada6666b",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-13T12:13:48.487Z"
+  },
+  {
+    "id": "b76585d8-4706-4ce2-a1cd-a1f68084b1a3",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "761391a4-e7a5-4080-82dd-1910ada6666b",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-03-13T17:16:58.480Z"
+  },
+  {
+    "id": "312148a1-34ac-4efe-a917-d2bb60914785",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "414187a8-55d9-4c75-93c0-2110837251ab",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-14T05:27:05.513Z"
+  },
+  {
+    "id": "31455ad4-7a7d-4b9a-aeea-e1e3b6d46b6a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2b015f82-4775-4440-90a4-dc936c302b84",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-14T06:14:20.573Z"
+  },
+  {
+    "id": "ec7fcc5a-ade2-4b6b-83f7-af4b4d1fd566",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2ca037e1-45fa-4d59-afa5-d438371b54cc",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-03-15T09:12:14.083Z"
+  },
+  {
+    "id": "2bf96fd3-03f9-46e3-919e-7d084535c8ff",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "2ca037e1-45fa-4d59-afa5-d438371b54cc",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-03-16T11:10:08.334Z"
+  },
+  {
+    "id": "c3cb5ee4-cdc2-4afa-845b-afabfff156e1",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "2b015f82-4775-4440-90a4-dc936c302b84",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-03-16T11:13:15.038Z"
+  },
+  {
+    "id": "8896d99a-1f54-4b8e-a534-88720535ddac",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "414187a8-55d9-4c75-93c0-2110837251ab",
+    "actor": "Elisa Rocha",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-03-16T12:19:20.099Z"
+  },
+  {
+    "id": "143aaa57-233d-49b3-8fb7-52bc3656b7c5",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "414187a8-55d9-4c75-93c0-2110837251ab",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-03-16T21:17:47.065Z"
+  },
+  {
+    "id": "ddc83847-2e8d-496f-b6c7-fc5325bf2c1e",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "414187a8-55d9-4c75-93c0-2110837251ab",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-03-17T11:46:29.591Z"
+  },
+  {
+    "id": "8503b8b5-8c6d-4160-a5ee-6bc75f97a855",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "247e6819-6eb0-411f-942f-32a457323a66",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-17T21:42:17.276Z"
+  },
+  {
+    "id": "99ddaa28-19e1-40f0-ba5d-5a690469656a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "926e328b-5e5d-4640-932b-48771eb89303",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-18T09:53:32.098Z"
+  },
+  {
+    "id": "e2bef1b3-a163-430a-8715-bc12f7b2bf9b",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "247e6819-6eb0-411f-942f-32a457323a66",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-03-18T12:01:41.927Z"
+  },
+  {
+    "id": "02ed9730-08df-44b9-a369-1248277ababb",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "926e328b-5e5d-4640-932b-48771eb89303",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-03-18T15:29:25.182Z"
+  },
+  {
+    "id": "767277be-bdd9-40b9-8d8f-2b9b730a7987",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d16ae173-af75-42c6-8871-b06224f7837b",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-18T18:49:04.212Z"
+  },
+  {
+    "id": "61df534b-6cf9-42e4-8fd7-ab4690f187c1",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d16ae173-af75-42c6-8871-b06224f7837b",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-03-19T11:27:12.225Z"
+  },
+  {
+    "id": "7f56abb5-d756-4afb-a383-f7550637ffcc",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "91865ca5-6de7-4893-8701-ef3e8c400486",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-20T14:42:19.254Z"
+  },
+  {
+    "id": "911e19c9-0669-4e7f-a382-cc5758d8545c",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "91865ca5-6de7-4893-8701-ef3e8c400486",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-03-20T19:42:48.998Z"
+  },
+  {
+    "id": "9f4eafc3-bf28-4ec0-aeb1-5877edcf82e0",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "568f0ac8-4114-4755-9f80-e22e8f90b91d",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-21T07:07:56.520Z"
+  },
+  {
+    "id": "9627affa-1041-4caf-aae7-a00b4f3105ac",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "568f0ac8-4114-4755-9f80-e22e8f90b91d",
+    "actor": "Diego Alves",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-03-23T12:23:51.639Z"
+  },
+  {
+    "id": "f67ebdcb-4321-4df3-ae0e-c8275982c817",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "60ad5b7f-f563-4160-830c-fa8e6a430cde",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-25T01:08:06.392Z"
+  },
+  {
+    "id": "8c1b8fed-1354-4e82-96e0-16cedfa51caa",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "60ad5b7f-f563-4160-830c-fa8e6a430cde",
+    "actor": "Ana Souza",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-03-25T12:22:31.350Z"
+  },
+  {
+    "id": "141822e5-833a-486d-be54-02d4b11453b3",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "568f0ac8-4114-4755-9f80-e22e8f90b91d",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-03-26T02:24:50.986Z"
+  },
+  {
+    "id": "c372fdcb-f25b-4b65-876c-cdf920601434",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "568f0ac8-4114-4755-9f80-e22e8f90b91d",
+    "actor": "Diego Alves",
+    "reason": "missing_documents",
+    "createdAt": "2026-03-26T18:46:26.745Z"
+  },
+  {
+    "id": "1ea3f582-1b27-4e7d-97a5-4bafa53a95ea",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "51fd3445-21b0-457e-b103-b2c55e255b6e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-27T16:59:59.034Z"
+  },
+  {
+    "id": "733915ae-aaa2-4d01-ab64-f98dde0b1c81",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "51fd3445-21b0-457e-b103-b2c55e255b6e",
+    "actor": "Diego Alves",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-03-27T19:12:25.575Z"
+  },
+  {
+    "id": "34eb243a-e698-48c5-8e5d-7a671b2cf710",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c9bc1881-c323-4f33-b40f-dbc8f1ffaa92",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-28T13:46:01.188Z"
+  },
+  {
+    "id": "f2b6b8a1-08f3-4d82-9c4a-2a7a07ed054b",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "568f0ac8-4114-4755-9f80-e22e8f90b91d",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-03-28T15:43:32.301Z"
+  },
+  {
+    "id": "fdbfe910-d50e-46e4-a3ee-dad0f1bd1a54",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "568f0ac8-4114-4755-9f80-e22e8f90b91d",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-03-30T12:10:03.360Z"
+  },
+  {
+    "id": "e992664b-ce91-4364-8d5c-f3551b53c7da",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "c9bc1881-c323-4f33-b40f-dbc8f1ffaa92",
+    "actor": "Diego Alves",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-03-30T12:17:22.009Z"
+  },
+  {
+    "id": "639ca7bb-5035-4dd8-bbf7-4a110219bbdc",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e49a9b2b-98f7-4561-87b4-9c55a89e4398",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-30T12:58:38.006Z"
+  },
+  {
+    "id": "ee27ff0f-0098-4a85-b9b7-7db19e588d85",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "e49a9b2b-98f7-4561-87b4-9c55a89e4398",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-03-30T16:56:04.125Z"
+  },
+  {
+    "id": "da55a011-0dbf-493a-9044-eca64373b1ad",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "63ae356a-30a6-42e3-ba51-91d746c52437",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-31T05:39:40.481Z"
+  },
+  {
+    "id": "0a9c7ed7-48a0-4512-be51-e1ab317fef97",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "79988e00-c480-4625-9889-250baeeec363",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-31T11:30:46.782Z"
+  },
+  {
+    "id": "9a6480a3-c671-4ab7-a72e-44e40844ef41",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "63ae356a-30a6-42e3-ba51-91d746c52437",
+    "actor": "Diego Alves",
+    "reason": "missing_documents",
+    "createdAt": "2026-03-31T12:11:43.849Z"
+  },
+  {
+    "id": "dcd3951c-e9b6-41d4-8888-aa2bb61322de",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d5e87d3a-c5e0-4d3d-bb08-10b6a42c88df",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-03-31T23:06:00.973Z"
+  },
+  {
+    "id": "f79f2449-3d51-4373-abaf-0abea46dd302",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "79988e00-c480-4625-9889-250baeeec363",
+    "actor": "Diego Alves",
+    "reason": "illegible_documents",
+    "createdAt": "2026-04-01T12:02:38.477Z"
+  },
+  {
+    "id": "9c002e78-ee04-45ce-8b2f-bf2e1be2457f",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "d5e87d3a-c5e0-4d3d-bb08-10b6a42c88df",
+    "actor": "Carla Mendes",
+    "reason": "illegible_documents",
+    "createdAt": "2026-04-01T14:14:51.953Z"
+  },
+  {
+    "id": "f2732658-f2b2-4fce-8894-1f469a5a008f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "79988e00-c480-4625-9889-250baeeec363",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-04-01T15:57:49.861Z"
+  },
+  {
+    "id": "4c0bf52d-be1d-416f-9cfc-ed34c565b29b",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "79988e00-c480-4625-9889-250baeeec363",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-04-02T12:15:32.906Z"
+  },
+  {
+    "id": "8ded7e8a-af22-4464-a73b-567a75a2737f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "51fd3445-21b0-457e-b103-b2c55e255b6e",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-04-02T21:32:30.891Z"
+  },
+  {
+    "id": "b32d4280-f447-4c9f-bc05-7d384a05810a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "302bbfff-c71e-43ef-960c-aa5d7c307cc4",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-03T10:05:58.151Z"
+  },
+  {
+    "id": "ca5ff5e0-3e6d-4c71-83e0-25160c7ddd4a",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "51fd3445-21b0-457e-b103-b2c55e255b6e",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-04-03T11:26:06.696Z"
+  },
+  {
+    "id": "77757760-7eae-465c-aca2-f26747595f40",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "302bbfff-c71e-43ef-960c-aa5d7c307cc4",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-04-03T11:59:24.804Z"
+  },
+  {
+    "id": "ae250e1b-ecf3-4075-84b2-0712a05b0ed4",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d5e87d3a-c5e0-4d3d-bb08-10b6a42c88df",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-04-04T06:34:48.677Z"
+  },
+  {
+    "id": "312b26fa-d8ff-47c7-9a10-0b48ec2aea25",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ba87c824-d9d7-4be2-83f2-3b6d5a1ee28d",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-05T22:10:47.314Z"
+  },
+  {
+    "id": "06b3a728-cffe-4b60-a228-e1d2032525f3",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "ba87c824-d9d7-4be2-83f2-3b6d5a1ee28d",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-04-06T11:20:06.127Z"
+  },
+  {
+    "id": "1703092a-29dc-4531-9f3d-47300fa7cebf",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d5e87d3a-c5e0-4d3d-bb08-10b6a42c88df",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-04-06T12:22:52.630Z"
+  },
+  {
+    "id": "a362fd99-0944-4cae-9992-a03cfc410be4",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2756cda4-607b-4d8e-9bf1-b2041a94fa2f",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-07T05:23:54.633Z"
+  },
+  {
+    "id": "ce8de5ef-70c2-451e-b709-b61a811455b0",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "05d294ca-e7a8-4ca9-a31e-da8a59ffb8cc",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-07T10:24:47.401Z"
+  },
+  {
+    "id": "e741dae5-f259-417c-8375-a2d10a8354fc",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "2756cda4-607b-4d8e-9bf1-b2041a94fa2f",
+    "actor": "Carla Mendes",
+    "reason": "address_not_covered",
+    "createdAt": "2026-04-07T12:20:39.540Z"
+  },
+  {
+    "id": "6f1be403-f9df-4521-90af-1629fccdaf3c",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "05d294ca-e7a8-4ca9-a31e-da8a59ffb8cc",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-04-07T16:22:12.706Z"
+  },
+  {
+    "id": "64b3c8f1-01a8-4711-9f8d-05441d195679",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "4dd6ef75-2da4-4eba-93ff-9ea120c1e7d9",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-08T02:39:31.553Z"
+  },
+  {
+    "id": "db7add23-084c-40d9-a003-3733a99c76d6",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f253325d-39e2-4886-985c-383ceb694dc6",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-08T10:46:12.486Z"
+  },
+  {
+    "id": "e6f09a78-dbc9-422a-8f12-a5e63d892d63",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ce5ca261-64cf-4ae8-ac20-5767e70a81c1",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-09T01:44:25.082Z"
+  },
+  {
+    "id": "61d1faa6-0dd1-4008-bd63-369bd151f888",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "ce5ca261-64cf-4ae8-ac20-5767e70a81c1",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-04-09T12:19:14.589Z"
+  },
+  {
+    "id": "a739f28d-0538-4bec-829a-f75dd76d138f",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "f253325d-39e2-4886-985c-383ceb694dc6",
+    "actor": "Ana Souza",
+    "reason": "missing_documents",
+    "createdAt": "2026-04-09T12:29:33.205Z"
+  },
+  {
+    "id": "1194fc0e-32ad-4d7b-a4fe-9279695afacd",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "4dd6ef75-2da4-4eba-93ff-9ea120c1e7d9",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-04-09T13:21:54.846Z"
+  },
+  {
+    "id": "d6ddbec9-1376-446a-af15-676626e89878",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2756cda4-607b-4d8e-9bf1-b2041a94fa2f",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-04-09T18:19:16.103Z"
+  },
+  {
+    "id": "8f0bd1cb-07e4-46cd-a20f-448a3261f660",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "2756cda4-607b-4d8e-9bf1-b2041a94fa2f",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-04-09T19:36:46.871Z"
+  },
+  {
+    "id": "6979c951-8be0-452d-8582-ef9a03332514",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "eb2b05e6-c9ec-4de2-846d-d9bddb26180f",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-09T23:09:42.987Z"
+  },
+  {
+    "id": "de3c74ee-f934-432b-8d83-f9292d13a4ab",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "eb2b05e6-c9ec-4de2-846d-d9bddb26180f",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-04-10T11:07:01.270Z"
+  },
+  {
+    "id": "fa5fd6f5-1eb2-483b-a4af-3c34c1edbc9c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "3feb7277-8b43-4481-bcc8-5ee655b7fdce",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-13T09:59:15.403Z"
+  },
+  {
+    "id": "1d03e293-9e6c-4263-abd4-f9bed5f1619c",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "3feb7277-8b43-4481-bcc8-5ee655b7fdce",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-04-13T13:40:18.250Z"
+  },
+  {
+    "id": "29ccfa12-9e61-41e5-9fb8-4fc3dca968fd",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b9ddcba9-8ccd-4929-a43e-53caa1848cb9",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-15T09:08:59.057Z"
+  },
+  {
+    "id": "eb906106-2f51-4bdd-84e5-87a718dda532",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f253325d-39e2-4886-985c-383ceb694dc6",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-04-15T12:27:24.722Z"
+  },
+  {
+    "id": "4cc0387d-8be6-43c7-983a-1e19a4f28573",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b9ddcba9-8ccd-4929-a43e-53caa1848cb9",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-04-15T18:33:56.059Z"
+  },
+  {
+    "id": "f5a4e90e-3d1f-4743-9db1-0a8269a6d6b0",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "f253325d-39e2-4886-985c-383ceb694dc6",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-04-15T18:56:29.217Z"
+  },
+  {
+    "id": "750244c8-e757-4fad-8649-c47fb157d636",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "42d21fe5-203b-4c1c-a9e6-687892631ab9",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-15T23:52:19.185Z"
+  },
+  {
+    "id": "de93da87-5e05-4949-85af-4cf63c75fa51",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "42d21fe5-203b-4c1c-a9e6-687892631ab9",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-04-16T11:40:16.511Z"
+  },
+  {
+    "id": "27965a23-2540-405e-a90a-430a6043817f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b6073238-4bf2-4cf0-ac23-3cad633d1339",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-17T15:26:04.643Z"
+  },
+  {
+    "id": "dd4a6bae-c94f-45b8-9f43-7975b75f880b",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b6073238-4bf2-4cf0-ac23-3cad633d1339",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-04-17T16:38:03.740Z"
+  },
+  {
+    "id": "1f13b33b-26b8-45bf-aa73-99979edd964f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d6ba1820-34d3-4781-b1ea-14400f0ca1d6",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-20T10:58:21.164Z"
+  },
+  {
+    "id": "3824e41e-6e5b-4e34-a942-d9d0c1324456",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d6ba1820-34d3-4781-b1ea-14400f0ca1d6",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-04-20T12:01:13.564Z"
+  },
+  {
+    "id": "e0569528-409d-4020-98f0-55799c0f2364",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b6073238-4bf2-4cf0-ac23-3cad633d1339",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-04-22T07:23:44.959Z"
+  },
+  {
+    "id": "e0728afc-8615-4891-8fd5-4399c0bb9031",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b6073238-4bf2-4cf0-ac23-3cad633d1339",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-04-22T11:48:36.282Z"
+  },
+  {
+    "id": "5ecd2f91-9f00-44ce-8c0c-d63c1cf76412",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "064f7858-8c99-4f96-8497-a39ecdf1d02b",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-22T18:51:58.124Z"
+  },
+  {
+    "id": "42f990f9-fd0c-44a6-b203-bdca2681c3fc",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "064f7858-8c99-4f96-8497-a39ecdf1d02b",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-04-23T11:59:03.901Z"
+  },
+  {
+    "id": "c111c8f5-fff2-4a16-b39b-478099e38aa1",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c68b1f08-eee6-4ae0-932f-844922e478e9",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-24T05:42:34.355Z"
+  },
+  {
+    "id": "680bead1-584d-42e8-a9df-e7eff610a883",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "c68b1f08-eee6-4ae0-932f-844922e478e9",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-04-24T11:07:33.126Z"
+  },
+  {
+    "id": "23b812a4-eeff-496b-8a95-0edeaa0590a5",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ed1435b5-8e09-4605-bc26-53f22775751a",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-24T21:44:33.785Z"
+  },
+  {
+    "id": "7e607916-a693-45a1-8da6-053a7e2f7321",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "ed1435b5-8e09-4605-bc26-53f22775751a",
+    "actor": "Carla Mendes",
+    "reason": "illegible_documents",
+    "createdAt": "2026-04-27T11:30:53.327Z"
+  },
+  {
+    "id": "0e417a89-df64-45b0-a933-4d47ebf4058d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2869a13e-d534-4ced-8f66-1c40a3ad57b6",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-28T01:37:03.466Z"
+  },
+  {
+    "id": "73320272-8804-4e95-891e-7ee0de4d572c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ed1435b5-8e09-4605-bc26-53f22775751a",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-04-28T02:21:02.003Z"
+  },
+  {
+    "id": "0b643f2b-34ab-4e9d-a7c9-a71dbd3116e8",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "626178a9-03cb-4640-ae2c-4ce923c15249",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-28T10:01:12.987Z"
+  },
+  {
+    "id": "d2153055-9aca-4aea-bc4a-7ab9d0968569",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "ed1435b5-8e09-4605-bc26-53f22775751a",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-04-28T11:26:19.669Z"
+  },
+  {
+    "id": "a1010f9f-3e3a-4107-838b-f30be179376f",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "2869a13e-d534-4ced-8f66-1c40a3ad57b6",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-04-28T12:24:37.329Z"
+  },
+  {
+    "id": "6a97c8a3-8247-4f14-b409-5edd2861782d",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "626178a9-03cb-4640-ae2c-4ce923c15249",
+    "actor": "Elisa Rocha",
+    "reason": "illegible_documents",
+    "createdAt": "2026-04-28T19:32:37.627Z"
+  },
+  {
+    "id": "36c86228-090e-42c8-beba-e962c329c156",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "626178a9-03cb-4640-ae2c-4ce923c15249",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-04-29T07:48:50.427Z"
+  },
+  {
+    "id": "ae6456c3-3696-4a48-a0bb-fe32379d6a38",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "626178a9-03cb-4640-ae2c-4ce923c15249",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-04-29T11:06:56.006Z"
+  },
+  {
+    "id": "485298e6-3fda-45aa-aa76-90b2df9139a4",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2e329a7b-a751-4373-bbf8-e2d37056dda3",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-04-29T14:09:49.293Z"
+  },
+  {
+    "id": "f7e0e9ee-f481-4d39-86df-fcc7f2b6afa9",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "2e329a7b-a751-4373-bbf8-e2d37056dda3",
+    "actor": "Ana Souza",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-04-30T12:12:30.029Z"
+  },
+  {
+    "id": "299cdeb6-3b9d-428c-8672-364386c73579",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b1493b30-829e-481a-baa7-aef3c705316c",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-02T01:16:17.262Z"
+  },
+  {
+    "id": "49f61b7f-dbb5-497f-bd1c-715603995899",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2e329a7b-a751-4373-bbf8-e2d37056dda3",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-02T23:24:00.039Z"
+  },
+  {
+    "id": "cb5309b1-2049-405d-9d72-3282a1c83c53",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "3f97ce18-3ce5-4107-bbbe-203d1733c563",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-03T15:56:14.969Z"
+  },
+  {
+    "id": "86e92e64-c8f7-4365-b770-06e430639dc2",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0cfb9f7b-7834-4b48-bdaa-65c1082384f2",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-04T05:52:44.899Z"
+  },
+  {
+    "id": "851fbb1a-8c96-45d0-85d2-2f9eefbb76ff",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "3f97ce18-3ce5-4107-bbbe-203d1733c563",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-05-04T11:27:08.504Z"
+  },
+  {
+    "id": "1a7d542c-7cb9-440a-a92e-be7d5ba85e31",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b1493b30-829e-481a-baa7-aef3c705316c",
+    "actor": "Ana Souza",
+    "reason": "illegible_documents",
+    "createdAt": "2026-05-04T12:05:44.964Z"
+  },
+  {
+    "id": "331c82f4-9f58-4d6a-bb4c-afa8da7b84e8",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "2e329a7b-a751-4373-bbf8-e2d37056dda3",
+    "actor": "Ana Souza",
+    "reason": "illegible_documents",
+    "createdAt": "2026-05-04T12:19:10.798Z"
+  },
+  {
+    "id": "074c49d1-58d4-4fcc-9605-7883c6fd9b7f",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "0cfb9f7b-7834-4b48-bdaa-65c1082384f2",
+    "actor": "Ana Souza",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-05-04T15:30:42.644Z"
+  },
+  {
+    "id": "b3921c93-760e-4e5c-9183-b6bd8549dedb",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0cfb9f7b-7834-4b48-bdaa-65c1082384f2",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-05T05:31:35.997Z"
+  },
+  {
+    "id": "9dc57597-a3fd-45fa-9a19-154108275553",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "0cfb9f7b-7834-4b48-bdaa-65c1082384f2",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-05-05T11:03:10.097Z"
+  },
+  {
+    "id": "56f600d6-9860-431a-977c-b8ab53f7c9b3",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "3f97ce18-3ce5-4107-bbbe-203d1733c563",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-05T13:39:34.146Z"
+  },
+  {
+    "id": "27566ce5-d259-4c83-8b66-ecd42b7c0822",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "3f97ce18-3ce5-4107-bbbe-203d1733c563",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-05-05T18:59:47.237Z"
+  },
+  {
+    "id": "11570151-4b71-4cd1-b45a-5359de9910ab",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b1493b30-829e-481a-baa7-aef3c705316c",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-07T01:32:58.192Z"
+  },
+  {
+    "id": "d207152c-3305-4a68-ae77-0bf25f016e0a",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b1493b30-829e-481a-baa7-aef3c705316c",
+    "actor": "Ana Souza",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-05-07T11:17:03.506Z"
+  },
+  {
+    "id": "a191faf5-ff29-4a48-8f9f-f090f39fe36a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d1f75ea7-382b-4de4-8590-61564517c39f",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-08T18:11:44.951Z"
+  },
+  {
+    "id": "267b257b-05fd-457a-a5e0-1e72dec01f58",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d1f75ea7-382b-4de4-8590-61564517c39f",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-05-08T20:53:30.396Z"
+  },
+  {
+    "id": "d3b67aee-ac38-468f-bc93-9281b1caa101",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2e329a7b-a751-4373-bbf8-e2d37056dda3",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-09T11:47:12.975Z"
+  },
+  {
+    "id": "acf8ee6f-e23f-48a1-a552-b793b35398a0",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e84d1142-d847-4bd1-b0ca-f73ee61aa6e5",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-10T10:01:53.128Z"
+  },
+  {
+    "id": "a460d455-c0fb-4856-a5dc-bc6b0e9ebfbb",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "e84d1142-d847-4bd1-b0ca-f73ee61aa6e5",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-05-11T11:28:14.781Z"
+  },
+  {
+    "id": "0a493e86-50af-4cdf-b206-381871e209b5",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "2e329a7b-a751-4373-bbf8-e2d37056dda3",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-05-11T11:40:09.883Z"
+  },
+  {
+    "id": "91ef9473-bcb3-441b-865a-f0d198824851",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "6c7577d9-a8f9-4868-a8c3-5464586058cb",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-15T13:53:00.906Z"
+  },
+  {
+    "id": "4a4280da-f78a-4119-837a-f4ee130a7b4a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "decad08a-d76f-4524-bfe9-279d3c6dfd7f",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-15T17:26:54.598Z"
+  },
+  {
+    "id": "41ab9492-7b9a-44fd-a52e-80e042d82dfb",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "6c7577d9-a8f9-4868-a8c3-5464586058cb",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-05-15T20:53:30.153Z"
+  },
+  {
+    "id": "c31c4f42-14ae-4857-8c2b-a341a755346e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b1493b30-829e-481a-baa7-aef3c705316c",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-17T02:01:06.913Z"
+  },
+  {
+    "id": "89d9e4f6-8eeb-45c0-80e0-22bf8e79137b",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "93f4282a-be53-40e9-aef9-26a88f2525fc",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-18T05:57:11.876Z"
+  },
+  {
+    "id": "f37351bb-dca6-4129-b09e-7436870bc813",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "decad08a-d76f-4524-bfe9-279d3c6dfd7f",
+    "actor": "Diego Alves",
+    "reason": "missing_documents",
+    "createdAt": "2026-05-18T11:03:09.048Z"
+  },
+  {
+    "id": "c803de48-327e-4d74-aff4-f025f60c63ca",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b1493b30-829e-481a-baa7-aef3c705316c",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-05-18T11:21:47.070Z"
+  },
+  {
+    "id": "23e487e3-05b5-47ff-9d67-611b2331c0b9",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "93f4282a-be53-40e9-aef9-26a88f2525fc",
+    "actor": "Diego Alves",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-05-18T13:46:01.949Z"
+  },
+  {
+    "id": "96979f8e-54fe-4132-a9d5-5ea98b407eb9",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "1a1d1dbd-0bc4-46b5-91a1-411f5f51773c",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-18T22:12:27.283Z"
+  },
+  {
+    "id": "6a92ca85-f10d-4e3b-8575-6de410f1b0f3",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "6d251ee4-695d-4d28-9c4d-003cca57916e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-19T08:51:30.001Z"
+  },
+  {
+    "id": "45ad54b9-7b72-4c2f-9328-515657dd9d5d",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "1a1d1dbd-0bc4-46b5-91a1-411f5f51773c",
+    "actor": "Elisa Rocha",
+    "reason": "illegible_documents",
+    "createdAt": "2026-05-19T11:06:38.795Z"
+  },
+  {
+    "id": "1dc40600-d68f-49f5-b6a2-6cf874fc0b0a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "23e69cc4-ef7e-4a17-8f62-42992afaa60f",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-20T06:57:32.349Z"
+  },
+  {
+    "id": "4c008b4c-509d-42a0-ae24-511ebe3f1462",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "6d251ee4-695d-4d28-9c4d-003cca57916e",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-05-20T11:44:04.791Z"
+  },
+  {
+    "id": "963bdc78-d734-4bb1-92f0-2b60033c7db1",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "23e69cc4-ef7e-4a17-8f62-42992afaa60f",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-05-20T18:59:19.372Z"
+  },
+  {
+    "id": "d3e9f2b9-06d8-4598-8b40-4f7eaf4c51b1",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "93f4282a-be53-40e9-aef9-26a88f2525fc",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-20T23:14:00.279Z"
+  },
+  {
+    "id": "fb325c9f-9dc1-4ac4-b99b-1d3031c6a368",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "96480d1a-f5f2-4baf-a707-b67eef9a1b06",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-21T01:38:40.104Z"
+  },
+  {
+    "id": "6020002f-a814-421c-897b-d1746a3547b0",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "70481ec9-43eb-47dd-a6c9-06a6354bf0e2",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-21T09:43:10.771Z"
+  },
+  {
+    "id": "62721100-9b64-4698-bf5a-dab19601a667",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "93f4282a-be53-40e9-aef9-26a88f2525fc",
+    "actor": "Elisa Rocha",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-05-21T13:52:59.883Z"
+  },
+  {
+    "id": "4f558d4f-8783-43d1-8b17-46d4a47afb15",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b92d18a0-97fa-4fc1-8f83-a0e43db190c2",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-21T17:04:20.682Z"
+  },
+  {
+    "id": "b97fb850-6aea-4208-b256-456ec472ff58",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "1a1d1dbd-0bc4-46b5-91a1-411f5f51773c",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-22T03:28:35.911Z"
+  },
+  {
+    "id": "63d9f7e2-aef0-43c4-9c0d-50725eac9e72",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "decad08a-d76f-4524-bfe9-279d3c6dfd7f",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-22T03:50:26.215Z"
+  },
+  {
+    "id": "b585219e-411d-485f-86a1-95bc7e7721fd",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "586c2ee4-b23a-446b-8a01-7dc45f6f7280",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-22T04:18:33.498Z"
+  },
+  {
+    "id": "8b38d702-4e6f-46e0-ad57-bb0499d6f8d2",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b92d18a0-97fa-4fc1-8f83-a0e43db190c2",
+    "actor": "Bruno Lima",
+    "reason": "missing_documents",
+    "createdAt": "2026-05-22T12:25:45.184Z"
+  },
+  {
+    "id": "b56a7095-bddf-4ae0-8ad4-772de976fd1a",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "586c2ee4-b23a-446b-8a01-7dc45f6f7280",
+    "actor": "Ana Souza",
+    "reason": "incomplete_registration",
+    "createdAt": "2026-05-22T12:26:53.790Z"
+  },
+  {
+    "id": "14ede390-cee8-414d-b48e-eb1324e6dfa8",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "1a1d1dbd-0bc4-46b5-91a1-411f5f51773c",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-05-22T12:27:10.679Z"
+  },
+  {
+    "id": "c96561db-e35d-4a11-bc4f-792c3a36960a",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "decad08a-d76f-4524-bfe9-279d3c6dfd7f",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-05-22T12:29:43.438Z"
+  },
+  {
+    "id": "0d143576-fff7-4768-808c-51d5879dbbd8",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "586c2ee4-b23a-446b-8a01-7dc45f6f7280",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-22T15:48:56.380Z"
+  },
+  {
+    "id": "f36400fe-19dc-4d8e-bbb2-cd0a55f27a8e",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "586c2ee4-b23a-446b-8a01-7dc45f6f7280",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-05-22T18:42:02.730Z"
+  },
+  {
+    "id": "1527e9f6-a147-42b4-be08-801d1d981c68",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "93f4282a-be53-40e9-aef9-26a88f2525fc",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-22T19:06:37.715Z"
+  },
+  {
+    "id": "96f8e23d-a3c6-4d3e-8dcb-5b1ae81371d2",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "70481ec9-43eb-47dd-a6c9-06a6354bf0e2",
+    "actor": "Elisa Rocha",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-05-22T19:50:27.717Z"
+  },
+  {
+    "id": "f34db6f9-3c04-48b1-aef9-1b9c7b0b0e85",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "93c83af9-c58b-40ae-9d46-2ed38cbe66cf",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-24T00:58:24.621Z"
+  },
+  {
+    "id": "b8018aab-81b4-4709-92cb-9ae84bf318bc",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "96480d1a-f5f2-4baf-a707-b67eef9a1b06",
+    "actor": "Diego Alves",
+    "reason": "illegible_documents",
+    "createdAt": "2026-05-25T11:02:08.876Z"
+  },
+  {
+    "id": "33802f0d-3863-4882-a21c-6365e4e5989f",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "93c83af9-c58b-40ae-9d46-2ed38cbe66cf",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-05-25T11:34:37.469Z"
+  },
+  {
+    "id": "ac687710-8acf-4e69-a0a6-83a6d005579d",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "93f4282a-be53-40e9-aef9-26a88f2525fc",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-05-25T11:54:10.469Z"
+  },
+  {
+    "id": "1e04b4e5-3bc8-421f-9010-977a18e4fb68",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0cf0b859-a5d6-45c7-9c2e-4abac161f9e2",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-26T07:24:13.631Z"
+  },
+  {
+    "id": "d92cba80-dc12-48f0-8aaa-7216d6353d17",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "0cf0b859-a5d6-45c7-9c2e-4abac161f9e2",
+    "actor": "Carla Mendes",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-05-26T11:38:43.080Z"
+  },
+  {
+    "id": "2d9d1a83-26dd-4311-8056-668091e7a3b3",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "96480d1a-f5f2-4baf-a707-b67eef9a1b06",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-26T13:59:58.094Z"
+  },
+  {
+    "id": "28803bf2-5faf-4578-81bd-28dace6ad17d",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "96480d1a-f5f2-4baf-a707-b67eef9a1b06",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-05-26T14:28:37.480Z"
+  },
+  {
+    "id": "20b81514-7202-4bdb-bb5b-2661888046ff",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ef74023c-f351-468b-9161-ade5336ff4bb",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-27T05:34:20.946Z"
+  },
+  {
+    "id": "107263ca-707e-4d5c-8945-636bfe296575",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "ef74023c-f351-468b-9161-ade5336ff4bb",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-05-27T13:43:57.313Z"
+  },
+  {
+    "id": "1285ce50-4e29-4afc-8a58-b6a2999abcdc",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0cf0b859-a5d6-45c7-9c2e-4abac161f9e2",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-27T15:15:08.808Z"
+  },
+  {
+    "id": "5e120a04-d36c-4dfb-9d5a-06004308f35a",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "0cf0b859-a5d6-45c7-9c2e-4abac161f9e2",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-05-27T16:58:47.940Z"
+  },
+  {
+    "id": "9270e78b-088a-486b-bbf8-4d18d0b21fa7",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7c8bfb99-7857-49c0-b1a3-aeac989ea444",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-28T09:23:13.960Z"
+  },
+  {
+    "id": "1111a83a-8e98-4c1d-8c4a-613d154030a6",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "67971c5f-17c0-4246-bb02-5c9215e0aa36",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-28T15:14:06.551Z"
+  },
+  {
+    "id": "a0647288-d3ae-473b-8e37-f27ceaa826ad",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ffe6b67b-fee3-414d-a84f-b64a30f06a2d",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-28T19:05:07.628Z"
+  },
+  {
+    "id": "a2088008-083b-4c73-8dc8-b146ab7d7136",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "7c8bfb99-7857-49c0-b1a3-aeac989ea444",
+    "actor": "Carla Mendes",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-05-28T20:07:12.313Z"
+  },
+  {
+    "id": "e006bfcd-1166-4a44-9567-0fb21f651633",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5d3fb20f-e27e-45ac-afa3-8ca206807a4e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-29T09:43:51.636Z"
+  },
+  {
+    "id": "d1d96856-bc89-460e-ade6-c88d3e7e94bc",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "ffe6b67b-fee3-414d-a84f-b64a30f06a2d",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-05-29T12:05:33.099Z"
+  },
+  {
+    "id": "0133798a-fe1e-416f-9ad0-abc09a82c6e0",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "67971c5f-17c0-4246-bb02-5c9215e0aa36",
+    "actor": "Carla Mendes",
+    "reason": "address_not_covered",
+    "createdAt": "2026-05-29T12:58:16.268Z"
+  },
+  {
+    "id": "ba436405-2b2d-4a15-b3a6-992495309e15",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "5d3fb20f-e27e-45ac-afa3-8ca206807a4e",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-05-29T14:00:10.097Z"
+  },
+  {
+    "id": "0f9a5dc3-8353-46dd-b53e-71e6cc93b533",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ef74023c-f351-468b-9161-ade5336ff4bb",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-05-30T06:02:28.106Z"
+  },
+  {
+    "id": "f1abd053-df35-4474-b7d2-63ee0c95c9b8",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c6d912a8-2937-4c2a-9e20-24d5958d1093",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-05-31T19:57:59.298Z"
+  },
+  {
+    "id": "a89c6982-939e-49d1-b229-b048f48f3b63",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "ef74023c-f351-468b-9161-ade5336ff4bb",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-06-01T11:14:13.804Z"
+  },
+  {
+    "id": "8791a987-19b7-462f-b257-bae9ee72ee74",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "c6d912a8-2937-4c2a-9e20-24d5958d1093",
+    "actor": "Bruno Lima",
+    "reason": "address_not_covered",
+    "createdAt": "2026-06-01T12:04:45.251Z"
+  },
+  {
+    "id": "73cb2cc7-222d-489e-9d67-cd11ff61d3ab",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5d3fb20f-e27e-45ac-afa3-8ca206807a4e",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-01T13:35:09.076Z"
+  },
+  {
+    "id": "b46873db-6e10-4453-950e-37eb2b8d7827",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "5d3fb20f-e27e-45ac-afa3-8ca206807a4e",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-06-01T20:48:13.098Z"
+  },
+  {
+    "id": "7571e321-3e03-46b4-87d0-3c3d3a9d9b07",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "93c83af9-c58b-40ae-9d46-2ed38cbe66cf",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-02T10:36:16.733Z"
+  },
+  {
+    "id": "fb98e46f-09b5-4f0c-8dea-aa056b191d77",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "93c83af9-c58b-40ae-9d46-2ed38cbe66cf",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-06-02T12:57:21.264Z"
+  },
+  {
+    "id": "519461f0-525b-4e78-b799-a685305fc2c5",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0d03533b-fed3-4104-bd28-1515208b9994",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-03T08:50:48.182Z"
+  },
+  {
+    "id": "be34e7b9-72ef-415e-a2c7-b37a6e86aa91",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "29ad640a-f458-4389-82d1-3adab1b2ae2b",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-03T10:14:42.773Z"
+  },
+  {
+    "id": "9d9f2ee1-370a-4389-b912-53e5e2a83cb0",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "0d03533b-fed3-4104-bd28-1515208b9994",
+    "actor": "Ana Souza",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-06-03T11:27:09.554Z"
+  },
+  {
+    "id": "ed5dcf56-f0e4-493e-9141-c4216e5042d4",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "29ad640a-f458-4389-82d1-3adab1b2ae2b",
+    "actor": "Ana Souza",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-06-03T13:45:16.435Z"
+  },
+  {
+    "id": "afdf0ed5-ad4a-4ed5-bfda-a101bfc33eaa",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "662768fa-54f6-411a-8242-259a3f7d0690",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-04T17:31:23.724Z"
+  },
+  {
+    "id": "14b14cad-47a6-4d9e-aab1-a3118946d988",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "662768fa-54f6-411a-8242-259a3f7d0690",
+    "actor": "Bruno Lima",
+    "reason": "missing_documents",
+    "createdAt": "2026-06-05T12:05:39.696Z"
+  },
+  {
+    "id": "f71d07f9-5294-4e3a-a253-9ecc273e5656",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b5245a4c-97b6-49c5-9549-072e1f5cd513",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-06T07:20:17.689Z"
+  },
+  {
+    "id": "fb14210a-2626-4d36-87e1-2a9875eb28e1",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "29ad640a-f458-4389-82d1-3adab1b2ae2b",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-06T18:44:05.388Z"
+  },
+  {
+    "id": "69ded382-a3c0-4448-ab08-df9b3a079aa8",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "662768fa-54f6-411a-8242-259a3f7d0690",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-06T23:31:54.893Z"
+  },
+  {
+    "id": "80da8a71-cf72-4137-b52d-b957b61b1bd9",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "70481ec9-43eb-47dd-a6c9-06a6354bf0e2",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-07T20:44:19.794Z"
+  },
+  {
+    "id": "77fcb9d9-3821-4da8-961e-3e3be5976637",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "29ad640a-f458-4389-82d1-3adab1b2ae2b",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-06-08T11:17:13.606Z"
+  },
+  {
+    "id": "963344f9-3caa-4a5d-a976-44fdd3359c18",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "876b8b77-67e2-4cf0-be32-bd0d65a6e8a0",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-08T11:18:11.878Z"
+  },
+  {
+    "id": "c252760f-e354-4401-b3eb-63c376a18671",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b5245a4c-97b6-49c5-9549-072e1f5cd513",
+    "actor": "Diego Alves",
+    "reason": "address_not_covered",
+    "createdAt": "2026-06-08T11:56:09.882Z"
+  },
+  {
+    "id": "8e87cd03-eb85-41f9-8896-3096254e4dcd",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "70481ec9-43eb-47dd-a6c9-06a6354bf0e2",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-06-08T12:20:51.203Z"
+  },
+  {
+    "id": "318b4306-a060-468c-9faf-a91ed24c072b",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "662768fa-54f6-411a-8242-259a3f7d0690",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-06-08T12:28:25.027Z"
+  },
+  {
+    "id": "58675149-7487-4a00-9be8-4177c7ebf52b",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "dd85426d-9152-467f-bc89-34fb9d97186f",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-08T15:54:26.393Z"
+  },
+  {
+    "id": "e9516db9-0b24-4275-9abb-78bb9e367db3",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "dd85426d-9152-467f-bc89-34fb9d97186f",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-06-08T18:19:03.442Z"
+  },
+  {
+    "id": "97fc7eb8-3191-4714-973a-59c48fce001e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "8612c163-fe9d-4de7-bfd7-65c46034c2e6",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-08T19:35:25.801Z"
+  },
+  {
+    "id": "7707901f-8ee2-4e50-b6d3-959e58098b79",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "876b8b77-67e2-4cf0-be32-bd0d65a6e8a0",
+    "actor": "Bruno Lima",
+    "reason": "missing_documents",
+    "createdAt": "2026-06-09T11:09:37.118Z"
+  },
+  {
+    "id": "abbc1e80-f77b-4f4d-8c58-fa8912aeb73b",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "8612c163-fe9d-4de7-bfd7-65c46034c2e6",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-06-09T12:24:16.706Z"
+  },
+  {
+    "id": "88a26fdc-8209-498d-aec7-5b85716d0ff7",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b9ebe037-8f70-4b12-8cfc-70677467a300",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-10T18:24:02.074Z"
+  },
+  {
+    "id": "0de234c3-7fce-404a-9600-c74a62e5c57f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "dfaaff0c-69f4-4ef9-81f4-0cb098be1028",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-11T08:23:52.474Z"
+  },
+  {
+    "id": "c9679ec3-9c52-481c-8851-cac69886a487",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "dfaaff0c-69f4-4ef9-81f4-0cb098be1028",
+    "actor": "Bruno Lima",
+    "reason": "address_not_covered",
+    "createdAt": "2026-06-11T11:45:08.894Z"
+  },
+  {
+    "id": "71224f88-4c6f-481f-bf2c-0b6fa8120ce9",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b9ebe037-8f70-4b12-8cfc-70677467a300",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-06-11T12:28:49.346Z"
+  },
+  {
+    "id": "f5309fc0-e428-4b08-93f1-69cdf6f33a4c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "dfaaff0c-69f4-4ef9-81f4-0cb098be1028",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-12T17:52:28.853Z"
+  },
+  {
+    "id": "d74a57c1-09f6-4159-aa72-e391c65a019b",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0d03533b-fed3-4104-bd28-1515208b9994",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-14T03:03:01.344Z"
+  },
+  {
+    "id": "4a99f7b6-087a-4511-a9ff-e179c9db7c39",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f285c25c-3b75-48c1-9f9a-f59d0e3046a5",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-14T09:06:44.673Z"
+  },
+  {
+    "id": "457ca604-366c-421a-a246-a658b57c1c1c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "8612c163-fe9d-4de7-bfd7-65c46034c2e6",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-14T18:53:41.272Z"
+  },
+  {
+    "id": "57afd62a-b946-47c3-9423-61b47a80f48b",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b9ebe037-8f70-4b12-8cfc-70677467a300",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-15T00:20:04.195Z"
+  },
+  {
+    "id": "db38ff96-aa0c-44ab-ade5-0c749c1eefe5",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "dfaaff0c-69f4-4ef9-81f4-0cb098be1028",
+    "actor": "Bruno Lima",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-06-15T11:16:07.911Z"
+  },
+  {
+    "id": "9f0200ca-ca47-44e3-9073-19e4e6443a7b",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "0d03533b-fed3-4104-bd28-1515208b9994",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-06-15T11:30:39.978Z"
+  },
+  {
+    "id": "22ca3e8d-13f8-4096-975a-715cc3c29e93",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "8612c163-fe9d-4de7-bfd7-65c46034c2e6",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-06-15T11:39:34.336Z"
+  },
+  {
+    "id": "bbcb41cb-5359-47c1-90e4-1a786f820a7e",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b9ebe037-8f70-4b12-8cfc-70677467a300",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-06-15T11:44:02.861Z"
+  },
+  {
+    "id": "9c9be3b8-b296-464a-ba7d-a795dcc4350b",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "f285c25c-3b75-48c1-9f9a-f59d0e3046a5",
+    "actor": "Bruno Lima",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-06-15T12:02:49.515Z"
+  },
+  {
+    "id": "c273edf4-9b19-4391-a8be-f3e38a8ef1b7",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "dfaaff0c-69f4-4ef9-81f4-0cb098be1028",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-16T02:27:17.152Z"
+  },
+  {
+    "id": "5b903fc2-7f7a-42d9-a647-d8ddfd874cec",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f285c25c-3b75-48c1-9f9a-f59d0e3046a5",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-16T09:23:39.425Z"
+  },
+  {
+    "id": "b936ba6e-16c7-46ca-954c-ea33381519e7",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "f285c25c-3b75-48c1-9f9a-f59d0e3046a5",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-06-16T11:20:22.460Z"
+  },
+  {
+    "id": "16902abd-e1f1-4d78-9dfc-621cc2aabd04",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "dfaaff0c-69f4-4ef9-81f4-0cb098be1028",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-06-16T11:28:24.994Z"
+  },
+  {
+    "id": "389911d4-0fa7-424d-b9ab-ece7accb227d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "40492fcb-cd38-4440-8796-d963e44af270",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-18T05:35:35.547Z"
+  },
+  {
+    "id": "65ec2b88-21b3-43c5-ba12-4029dbe5b19d",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "40492fcb-cd38-4440-8796-d963e44af270",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-06-18T11:33:12.785Z"
+  },
+  {
+    "id": "2bf96a95-c8b1-41c1-abc6-1b9837adc514",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "72ac9a2b-39d4-419f-93b9-1d68abe582c5",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-19T15:08:03.537Z"
+  },
+  {
+    "id": "520c7e67-5cce-43f6-8421-e08a45363450",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "72ac9a2b-39d4-419f-93b9-1d68abe582c5",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-06-19T17:00:44.887Z"
+  },
+  {
+    "id": "920ea9d8-33db-4852-b96d-d4ee710928eb",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "9bc840a6-ad11-47fe-b79c-c03c837c5df6",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-20T10:53:15.003Z"
+  },
+  {
+    "id": "cad9d279-ff6a-4ef5-9345-2067c968322d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "3c344b72-04cd-4326-b34e-9de9ba936619",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-20T15:39:42.547Z"
+  },
+  {
+    "id": "fef68ad2-504c-4f70-a458-ed7af91d0d08",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "736daf98-c81a-4c57-8f7d-0ed5e3f852c1",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-21T01:19:15.638Z"
+  },
+  {
+    "id": "27a8f3c5-2a78-4d45-888d-3a1f001b6957",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "736daf98-c81a-4c57-8f7d-0ed5e3f852c1",
+    "actor": "Diego Alves",
+    "reason": "missing_documents",
+    "createdAt": "2026-06-22T11:00:42.382Z"
+  },
+  {
+    "id": "dae25260-1b76-44cc-bcc3-3141aabd462f",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "9bc840a6-ad11-47fe-b79c-c03c837c5df6",
+    "actor": "Elisa Rocha",
+    "reason": "illegible_documents",
+    "createdAt": "2026-06-22T11:49:28.512Z"
+  },
+  {
+    "id": "86596d0a-0ecf-489e-97a2-84dfa338fdb0",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "3c344b72-04cd-4326-b34e-9de9ba936619",
+    "actor": "Ana Souza",
+    "reason": "missing_documents",
+    "createdAt": "2026-06-22T11:50:05.507Z"
+  },
+  {
+    "id": "f5bd0cde-4f4a-49fe-9763-a3d2b794422b",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "8fd0760f-f72b-479f-a063-12040a81495b",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-22T19:54:24.460Z"
+  },
+  {
+    "id": "b2b502ee-4a53-4601-bfa9-e36498c9d094",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "9bc840a6-ad11-47fe-b79c-c03c837c5df6",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-23T00:23:21.702Z"
+  },
+  {
+    "id": "416bcbd1-9c31-42ae-8b14-980438d4e920",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7043952d-27ae-47b6-a0b7-c15c2af80278",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-23T01:53:11.406Z"
+  },
+  {
+    "id": "7a1d8a09-2609-4622-a1da-fc9fd0ab9f4c",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "9bc840a6-ad11-47fe-b79c-c03c837c5df6",
+    "actor": "Diego Alves",
+    "reason": "incomplete_registration",
+    "createdAt": "2026-06-23T11:16:22.725Z"
+  },
+  {
+    "id": "d57959c2-2265-4cd8-acbc-de1163d2cbf6",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "7043952d-27ae-47b6-a0b7-c15c2af80278",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-06-23T11:37:01.675Z"
+  },
+  {
+    "id": "cba07c3c-09f5-4051-88a7-3ebbaf36af3f",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "8fd0760f-f72b-479f-a063-12040a81495b",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-06-23T12:04:39.976Z"
+  },
+  {
+    "id": "4ecfa7ca-77b5-4929-a8e8-c3d3112600f1",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "9bc840a6-ad11-47fe-b79c-c03c837c5df6",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-23T21:37:16.881Z"
+  },
+  {
+    "id": "26d508b1-c7c4-4016-8175-b2495ec8710c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "68d30a49-c27a-4e1b-95ac-574418e8ee7f",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-24T01:14:13.384Z"
+  },
+  {
+    "id": "17c3ef45-c24d-43b8-ab89-a4952a4e7df4",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "9bc840a6-ad11-47fe-b79c-c03c837c5df6",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-06-24T11:51:29.442Z"
+  },
+  {
+    "id": "4ca0cbd9-6624-403e-89cb-e9f8af38aa9c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d1fa5db5-5f93-4242-92f5-b37dfe57b50e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-24T13:55:53.944Z"
+  },
+  {
+    "id": "ecb6cab4-d484-4a07-befd-55405194122f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "3c344b72-04cd-4326-b34e-9de9ba936619",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-06-24T15:28:17.202Z"
+  },
+  {
+    "id": "9620b22f-d35d-455f-8232-0189650ab171",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "3c344b72-04cd-4326-b34e-9de9ba936619",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-06-24T16:51:20.035Z"
+  },
+  {
+    "id": "0847f4a8-2e55-4415-8606-2d13085c2235",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "68d30a49-c27a-4e1b-95ac-574418e8ee7f",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-06-24T17:37:46.726Z"
+  },
+  {
+    "id": "83310449-68d3-43c2-a35e-01374c24156e",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d1fa5db5-5f93-4242-92f5-b37dfe57b50e",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-06-24T19:14:26.584Z"
+  },
+  {
+    "id": "51bca0e6-e40b-426d-a613-4a2fa4b627ed",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "31881fdf-fa42-4c16-b2db-93fcec1de7e8",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-24T21:01:26.723Z"
+  },
+  {
+    "id": "873da9d8-8206-4d6e-9c9c-d8648b7f56ae",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "31881fdf-fa42-4c16-b2db-93fcec1de7e8",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-06-25T12:20:40.127Z"
+  },
+  {
+    "id": "174324c5-e495-4430-aefe-59e4b73495cb",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "3fb4105b-dd26-4497-96a9-c4327f4198ed",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-25T22:06:53.427Z"
+  },
+  {
+    "id": "1404053c-fb8b-4822-8a07-f1544b0b7418",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "be511f87-42bf-4ad9-bbb1-ae12b69a0f27",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-26T11:23:05.914Z"
+  },
+  {
+    "id": "f5d240a3-df2d-464d-9fad-45bb86963688",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "3fb4105b-dd26-4497-96a9-c4327f4198ed",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-06-26T12:11:33.988Z"
+  },
+  {
+    "id": "d9f75d38-4de9-4119-a307-44d6842c4890",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7df2c101-9a0f-4306-8a18-c708054da68e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-26T12:26:36.376Z"
+  },
+  {
+    "id": "1e24a576-ab1d-4587-98d6-ba479db78f99",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "af2a6118-0815-4bdf-831f-7711cba8c43f",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-27T00:03:02.802Z"
+  },
+  {
+    "id": "e933c7a1-c51b-4825-b23e-97f5927adcda",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "1f59d306-fe9b-42ef-9040-e2168838f232",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-29T08:57:04.375Z"
+  },
+  {
+    "id": "fd886f6f-ce75-4a5d-a4e4-15a8ed4771e9",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "be511f87-42bf-4ad9-bbb1-ae12b69a0f27",
+    "actor": "Diego Alves",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-06-29T11:02:38.610Z"
+  },
+  {
+    "id": "44878a34-bd46-4153-bed7-53d706b0c06e",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "af2a6118-0815-4bdf-831f-7711cba8c43f",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-06-29T11:29:10.873Z"
+  },
+  {
+    "id": "8d40ab05-1326-42c9-958f-77fac621ba1e",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "7df2c101-9a0f-4306-8a18-c708054da68e",
+    "actor": "Carla Mendes",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-06-29T12:27:48.957Z"
+  },
+  {
+    "id": "6ac769e6-94a2-4360-a140-e0229a77260d",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "1f59d306-fe9b-42ef-9040-e2168838f232",
+    "actor": "Bruno Lima",
+    "reason": "address_not_covered",
+    "createdAt": "2026-06-29T13:00:18.113Z"
+  },
+  {
+    "id": "59d82f92-176a-4560-94a0-5c9a903662f7",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d98f8202-3ff8-402c-8229-872ff5e8f97e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-29T22:31:11.417Z"
+  },
+  {
+    "id": "267bc1dc-12ac-47f5-a2eb-aef7b75ce0d7",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "fc12d79f-f3b8-4a40-b07b-4567c2c17e05",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-30T07:45:58.799Z"
+  },
+  {
+    "id": "53fdc082-1e08-4439-8a90-66ac88eb79e1",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "fc12d79f-f3b8-4a40-b07b-4567c2c17e05",
+    "actor": "Ana Souza",
+    "reason": "missing_documents",
+    "createdAt": "2026-06-30T11:13:47.653Z"
+  },
+  {
+    "id": "15e5cbc0-de83-4662-abd0-85e04f4a04f9",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "d98f8202-3ff8-402c-8229-872ff5e8f97e",
+    "actor": "Diego Alves",
+    "reason": "missing_documents",
+    "createdAt": "2026-06-30T11:37:13.959Z"
+  },
+  {
+    "id": "cc7fd2e9-6d07-4d99-8e27-de8a0f3e2ec9",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b9a87a99-ec4d-4466-b878-7851b8016471",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-06-30T21:25:35.304Z"
+  },
+  {
+    "id": "1d2ddb90-12ee-4bb8-8aea-df7e3e22faf5",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c2c0db37-f8d2-4e4b-9388-b8c03144b1a8",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-01T00:41:47.410Z"
+  },
+  {
+    "id": "e626363b-94b8-4a88-bea3-f150ab8cc04c",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "c2c0db37-f8d2-4e4b-9388-b8c03144b1a8",
+    "actor": "Ana Souza",
+    "reason": "missing_documents",
+    "createdAt": "2026-07-01T11:25:37.340Z"
+  },
+  {
+    "id": "d84c1c1f-ae19-42bc-b33e-22e8d5355cbe",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b9a87a99-ec4d-4466-b878-7851b8016471",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-07-01T12:23:22.939Z"
+  },
+  {
+    "id": "5f46dcef-2aa1-451f-84bd-ef0c6475413c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "be511f87-42bf-4ad9-bbb1-ae12b69a0f27",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-01T17:52:39.494Z"
+  },
+  {
+    "id": "0ea78ba9-f1dd-4677-861b-1b316bb62c57",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c2c0db37-f8d2-4e4b-9388-b8c03144b1a8",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-02T16:42:11.321Z"
+  },
+  {
+    "id": "c6e73ace-c76e-4659-84e8-cdd0f48339c4",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "c2c0db37-f8d2-4e4b-9388-b8c03144b1a8",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-07-02T20:21:55.368Z"
+  },
+  {
+    "id": "66cd1785-8d24-42a6-bd2d-af3cfc04d512",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "876b8b77-67e2-4cf0-be32-bd0d65a6e8a0",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-03T08:44:11.826Z"
+  },
+  {
+    "id": "ccbb39a0-3ead-4db2-8003-7fa8aa1c2b57",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "be511f87-42bf-4ad9-bbb1-ae12b69a0f27",
+    "actor": "Diego Alves",
+    "reason": "missing_documents",
+    "createdAt": "2026-07-03T11:30:16.229Z"
+  },
+  {
+    "id": "b7a1d169-9682-4c77-a00e-c7ec3c7c33c4",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7bc7306c-4b9c-4829-a83c-173849605b72",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-03T11:39:24.668Z"
+  },
+  {
+    "id": "69c97e5d-4459-45e8-9ae3-6d9e80f9a430",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "7bc7306c-4b9c-4829-a83c-173849605b72",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-07-03T13:48:04.863Z"
+  },
+  {
+    "id": "9e9ad588-bc70-4d0d-930d-903a1f05cc1e",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "876b8b77-67e2-4cf0-be32-bd0d65a6e8a0",
+    "actor": "Ana Souza",
+    "reason": "address_not_covered",
+    "createdAt": "2026-07-03T17:12:48.441Z"
+  },
+  {
+    "id": "a8831322-7a2f-48d8-8c6a-694900c86b2a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7b43af0c-a1d5-469d-8b95-da88f1951f03",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-04T03:34:00.000Z"
+  },
+  {
+    "id": "1e3a72c5-6f12-4076-bfa5-5b3ce984815d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "79dc2662-0814-4cac-a3ff-393ddea2e82b",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-04T15:56:54.918Z"
+  },
+  {
+    "id": "f6845442-4ba7-4751-a3f5-f04d6727cdbf",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5841f616-a9b2-4173-bf54-a07fc42a8409",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-05T08:26:41.146Z"
+  },
+  {
+    "id": "9b314457-1dbf-4be2-abd2-3d4842b63335",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d98f8202-3ff8-402c-8229-872ff5e8f97e",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-05T14:25:25.321Z"
+  },
+  {
+    "id": "14d6fb9f-034a-4cdc-99b7-21ba222ae965",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "be511f87-42bf-4ad9-bbb1-ae12b69a0f27",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-06T02:37:22.775Z"
+  },
+  {
+    "id": "04226359-ee60-4d90-a6f2-424e27cb3e9d",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "79dc2662-0814-4cac-a3ff-393ddea2e82b",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-07-06T11:06:03.717Z"
+  },
+  {
+    "id": "90e4da91-441b-42f9-a661-d8bc65431912",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "7b43af0c-a1d5-469d-8b95-da88f1951f03",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-07-06T11:13:52.525Z"
+  },
+  {
+    "id": "2fa47af5-14fa-4515-886d-57030d9264b2",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "d98f8202-3ff8-402c-8229-872ff5e8f97e",
+    "actor": "Diego Alves",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-07-06T12:04:11.198Z"
+  },
+  {
+    "id": "f89670b1-4429-4338-abf8-0a2a27861ff8",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "5841f616-a9b2-4173-bf54-a07fc42a8409",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-07-06T12:14:21.255Z"
+  },
+  {
+    "id": "9622acee-573b-4f7e-a243-04efc52ac595",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "be511f87-42bf-4ad9-bbb1-ae12b69a0f27",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-07-06T12:15:36.183Z"
+  },
+  {
+    "id": "a6940e95-7434-462a-a599-f7d8ddc993bd",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "02376a01-b757-43ea-a646-c3d4e2969d99",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-06T15:38:48.939Z"
+  },
+  {
+    "id": "a6dc4767-db0a-4b94-9c29-5a4f403c2429",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "876b8b77-67e2-4cf0-be32-bd0d65a6e8a0",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-06T19:11:17.309Z"
+  },
+  {
+    "id": "2c89bad1-6623-4962-8a9e-32b2539ff5e8",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "876b8b77-67e2-4cf0-be32-bd0d65a6e8a0",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-07-06T20:10:15.656Z"
+  },
+  {
+    "id": "3a2a09cb-5273-4ce7-b733-5f3acbb4c26d",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "02376a01-b757-43ea-a646-c3d4e2969d99",
+    "actor": "Ana Souza",
+    "reason": "illegible_documents",
+    "createdAt": "2026-07-07T11:12:47.046Z"
+  },
+  {
+    "id": "f2667638-11f4-4d12-a261-7b64c28a0508",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "77aa182b-8712-479b-a01f-f3ee049c54ab",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-07T16:56:44.913Z"
+  },
+  {
+    "id": "b9e534a6-7850-400d-ade9-d1f81deb0be7",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d98f8202-3ff8-402c-8229-872ff5e8f97e",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-07T20:21:55.446Z"
+  },
+  {
+    "id": "9969d029-c300-4291-a601-a15a79b50bf8",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "02376a01-b757-43ea-a646-c3d4e2969d99",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-07T23:25:27.585Z"
+  },
+  {
+    "id": "4c3d8032-4676-483f-9f68-75b514de476c",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "02376a01-b757-43ea-a646-c3d4e2969d99",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-07-08T11:36:43.472Z"
+  },
+  {
+    "id": "098ad747-e130-4b8c-92da-b0ce9ac38c41",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d98f8202-3ff8-402c-8229-872ff5e8f97e",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-07-09T11:55:23.130Z"
+  },
+  {
+    "id": "b50fe49f-bc19-45a2-9a85-5a40eac6e429",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c40d5ce8-6613-4852-89bc-808c06538e8c",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-09T14:46:21.954Z"
+  },
+  {
+    "id": "ad7a3575-c5c1-4079-8d20-f7da43d7c8df",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5841f616-a9b2-4173-bf54-a07fc42a8409",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-09T17:58:49.733Z"
+  },
+  {
+    "id": "621f63f1-9f7d-42f8-8d5d-4018934670bf",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "c40d5ce8-6613-4852-89bc-808c06538e8c",
+    "actor": "Ana Souza",
+    "reason": "illegible_documents",
+    "createdAt": "2026-07-10T11:21:06.054Z"
+  },
+  {
+    "id": "8674947e-baa2-4dd2-b2f4-72b0850904f4",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "5841f616-a9b2-4173-bf54-a07fc42a8409",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-07-10T11:55:38.274Z"
+  },
+  {
+    "id": "8cdb07b2-c6a3-4793-8492-02b9b12c7604",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c3deedf2-299e-4f1f-a52c-1d8b75732915",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-11T01:03:27.469Z"
+  },
+  {
+    "id": "926ccbb8-08a3-42ef-b52d-d23040ee66d7",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "8016249f-e0a8-4cd3-916f-a2f8d3107f9c",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-12T05:43:05.710Z"
+  },
+  {
+    "id": "37f64032-39a3-44e3-b426-e1a0367adf38",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "cc6906ab-e25d-47de-8f86-29d8716183ad",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-12T16:07:06.580Z"
+  },
+  {
+    "id": "4cf5cbc0-3fd0-4f19-a11b-ee9102e6ac0c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7df2c101-9a0f-4306-8a18-c708054da68e",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-12T16:46:38.576Z"
+  },
+  {
+    "id": "ff53efee-be58-495b-901d-0f72b86fd430",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "c3deedf2-299e-4f1f-a52c-1d8b75732915",
+    "actor": "Bruno Lima",
+    "reason": "missing_documents",
+    "createdAt": "2026-07-13T11:01:46.063Z"
+  },
+  {
+    "id": "1d9fbf15-d141-458a-a50c-60db5e1faf57",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "77aa182b-8712-479b-a01f-f3ee049c54ab",
+    "actor": "Diego Alves",
+    "reason": "missing_documents",
+    "createdAt": "2026-07-13T11:15:03.170Z"
+  },
+  {
+    "id": "cb30cc3f-bcd2-4be6-8839-6a1ee206ad04",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "8016249f-e0a8-4cd3-916f-a2f8d3107f9c",
+    "actor": "Bruno Lima",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-07-13T11:52:53.701Z"
+  },
+  {
+    "id": "8c155a07-5cd9-4eba-a461-86dfe9a70f50",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "cc6906ab-e25d-47de-8f86-29d8716183ad",
+    "actor": "Bruno Lima",
+    "reason": "illegible_documents",
+    "createdAt": "2026-07-13T12:01:36.003Z"
+  },
+  {
+    "id": "a8d7aba5-2101-4b40-a615-afc60ab7ebca",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "7df2c101-9a0f-4306-8a18-c708054da68e",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-07-13T12:18:40.776Z"
+  },
+  {
+    "id": "fae9f3df-93cf-4913-b5c7-8e4e7535d7e7",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e092bbc0-823e-4b95-a898-0a35a62a1e7c",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-13T14:11:29.265Z"
+  },
+  {
+    "id": "48638d37-6552-4a02-9410-1ab1a1574eb5",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "e092bbc0-823e-4b95-a898-0a35a62a1e7c",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-07-13T18:50:28.133Z"
+  },
+  {
+    "id": "9e705b99-05ec-473f-9a66-779b47f309cb",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "896b16de-c8d5-46c1-bf5c-76df4ca6da05",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-14T08:08:34.973Z"
+  },
+  {
+    "id": "58d552ac-2135-477d-9666-1c83fe4f7dd3",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "896b16de-c8d5-46c1-bf5c-76df4ca6da05",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-07-14T12:18:11.842Z"
+  },
+  {
+    "id": "c9c8252e-819a-4784-a2e5-cf35785cacb4",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "6e59dc1d-3dbc-4795-85f6-fc4dd7ea3851",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-14T17:06:58.755Z"
+  },
+  {
+    "id": "d236251d-c939-460a-bbb3-7a0d58cfeb5f",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "6e59dc1d-3dbc-4795-85f6-fc4dd7ea3851",
+    "actor": "Ana Souza",
+    "reason": "incomplete_registration",
+    "createdAt": "2026-07-14T19:23:56.428Z"
+  },
+  {
+    "id": "8a99faa1-f576-4887-bceb-d968abf1ea1e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c3deedf2-299e-4f1f-a52c-1d8b75732915",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-15T08:13:00.476Z"
+  },
+  {
+    "id": "6348de9f-5074-41f6-8b41-e2e4044dd767",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "6e59dc1d-3dbc-4795-85f6-fc4dd7ea3851",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-15T13:51:16.011Z"
+  },
+  {
+    "id": "339994f3-92e4-4f9d-9c39-9667b2ee1f4e",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "6e59dc1d-3dbc-4795-85f6-fc4dd7ea3851",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-07-15T14:21:36.643Z"
+  },
+  {
+    "id": "f0d79216-6115-4b61-a4cc-bfae4b3faa49",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "c3deedf2-299e-4f1f-a52c-1d8b75732915",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-07-15T15:04:44.993Z"
+  },
+  {
+    "id": "b277c493-5ca1-41d3-a821-7963a8bab710",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "af11e778-4ecb-429c-81d6-e13d092e0b09",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-15T15:46:36.358Z"
+  },
+  {
+    "id": "343b4ba4-d7da-45e4-a4a1-435919b26a1a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "736daf98-c81a-4c57-8f7d-0ed5e3f852c1",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-15T20:52:02.578Z"
+  },
+  {
+    "id": "78579924-9c3b-40f4-9f8d-d06a1f7d731c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2461858a-909b-4798-82a2-fb2903d6727c",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-16T02:59:47.139Z"
+  },
+  {
+    "id": "e4a6a814-1622-4cbe-8a9e-bcd65a1adbfc",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "2461858a-909b-4798-82a2-fb2903d6727c",
+    "actor": "Bruno Lima",
+    "reason": "address_not_covered",
+    "createdAt": "2026-07-16T11:02:11.637Z"
+  },
+  {
+    "id": "724836b4-1c49-4d90-a948-8a0e9a938cc4",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "736daf98-c81a-4c57-8f7d-0ed5e3f852c1",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-07-16T11:12:40.169Z"
+  },
+  {
+    "id": "342417d7-e392-4b5f-ab72-baa84a91c647",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "af11e778-4ecb-429c-81d6-e13d092e0b09",
+    "actor": "Carla Mendes",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-07-16T12:12:23.681Z"
+  },
+  {
+    "id": "b0408e1d-c22e-4757-98a5-c776cdaba24c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2461858a-909b-4798-82a2-fb2903d6727c",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-16T17:21:04.881Z"
+  },
+  {
+    "id": "76b66de8-618c-41db-9acc-d8c5ae4e1283",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "2461858a-909b-4798-82a2-fb2903d6727c",
+    "actor": "Bruno Lima",
+    "reason": "missing_documents",
+    "createdAt": "2026-07-17T11:25:32.096Z"
+  },
+  {
+    "id": "5e9b451f-1ed8-4c64-9fe2-cdc3680d0f7c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f3efcfbd-bc65-4fa0-baa5-2ca8271ff31a",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-18T10:01:21.741Z"
+  },
+  {
+    "id": "8ed1f969-66e6-412e-b8c2-038b1bebff49",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "f3efcfbd-bc65-4fa0-baa5-2ca8271ff31a",
+    "actor": "Ana Souza",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-07-20T11:06:38.543Z"
+  },
+  {
+    "id": "903dc216-4c8a-4160-9e2a-c8675a5eff53",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "fc12d79f-f3b8-4a40-b07b-4567c2c17e05",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-21T13:21:55.773Z"
+  },
+  {
+    "id": "b2666cb4-fb53-4dfe-a171-b6c9452ffbde",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "fc12d79f-f3b8-4a40-b07b-4567c2c17e05",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-07-21T14:40:25.324Z"
+  },
+  {
+    "id": "f61218e7-fd59-4a45-a066-bc060026d155",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "9785bcf8-f87e-466e-af87-8433414f9d2b",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-21T19:55:54.400Z"
+  },
+  {
+    "id": "4dcec481-2194-457e-9ef6-55f87ad6af55",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "9785bcf8-f87e-466e-af87-8433414f9d2b",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-07-22T11:05:01.340Z"
+  },
+  {
+    "id": "cfe2c430-b83b-4a86-97dd-fe924802c92c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "8227deff-5728-46ba-85ed-f674a18c9861",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-22T20:14:36.077Z"
+  },
+  {
+    "id": "3c21cdd4-c4b7-4863-9916-951923bf10b8",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "8227deff-5728-46ba-85ed-f674a18c9861",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-07-23T12:13:07.972Z"
+  },
+  {
+    "id": "52dfe592-5833-48a7-ab15-413b68d7b0a3",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "4c8698ac-913c-4ce9-8269-6f4d00cb0697",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-24T07:26:33.730Z"
+  },
+  {
+    "id": "e4b1ccaf-856b-407a-944e-0da0322d389c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "4277fbc2-bace-48b8-b33f-915917fd5da0",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-24T12:22:39.806Z"
+  },
+  {
+    "id": "2f69edda-3a70-4a44-ac7b-c55fac7181c4",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "4c8698ac-913c-4ce9-8269-6f4d00cb0697",
+    "actor": "Ana Souza",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-07-24T12:43:16.429Z"
+  },
+  {
+    "id": "6a6ec232-a085-4c67-a955-7e07f6dd8731",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "4277fbc2-bace-48b8-b33f-915917fd5da0",
+    "actor": "Diego Alves",
+    "reason": "address_not_covered",
+    "createdAt": "2026-07-24T15:20:42.413Z"
+  },
+  {
+    "id": "289f00a0-55e1-4af1-a612-8a45c4bf9c5e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "4277fbc2-bace-48b8-b33f-915917fd5da0",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-24T22:33:57.932Z"
+  },
+  {
+    "id": "7d7ce4ec-0220-4d09-9b38-d084cddbde2b",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2461858a-909b-4798-82a2-fb2903d6727c",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-25T07:07:33.979Z"
+  },
+  {
+    "id": "bcd09be0-6694-49b6-81c9-4487ade9788f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "1c6923d1-296f-490d-84ba-c59d21964ff9",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-25T12:41:26.695Z"
+  },
+  {
+    "id": "476bda55-1f4b-4e1a-981c-8293d120aeca",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b5c7ced9-4249-4778-8a49-66d7a9a6d8eb",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-25T14:36:16.869Z"
+  },
+  {
+    "id": "e8100ff3-6175-4b3b-be1b-a8e66d7cf879",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "2461858a-909b-4798-82a2-fb2903d6727c",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-07-27T11:28:03.602Z"
+  },
+  {
+    "id": "a9076835-a5d0-4ae6-aed2-879c1aa1b2ac",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "4277fbc2-bace-48b8-b33f-915917fd5da0",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-07-27T12:15:37.315Z"
+  },
+  {
+    "id": "5a6bf130-561a-47fc-b450-e2ea6ecdd4af",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "1c6923d1-296f-490d-84ba-c59d21964ff9",
+    "actor": "Diego Alves",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-07-27T12:22:24.958Z"
+  },
+  {
+    "id": "c1e35908-e6cd-4f58-929f-125553d15702",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b5c7ced9-4249-4778-8a49-66d7a9a6d8eb",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-07-27T12:24:36.429Z"
+  },
+  {
+    "id": "7cf733fd-84cb-42cc-a7ef-815e9ed1cafd",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "3ececcc5-7ae0-4e0a-9321-02fd60dc046e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-28T03:28:09.620Z"
+  },
+  {
+    "id": "6966d2a6-9267-4ff3-a9f9-627bc704d8db",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "3ececcc5-7ae0-4e0a-9321-02fd60dc046e",
+    "actor": "Carla Mendes",
+    "reason": "illegible_documents",
+    "createdAt": "2026-07-28T16:09:36.486Z"
+  },
+  {
+    "id": "0f7e1b6e-e806-450f-b064-391211e0ef08",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "55cfb1e1-016a-498c-ab83-dede2a757862",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-28T20:39:32.413Z"
+  },
+  {
+    "id": "8ed231f0-3fd0-4584-853b-52ded22a0b5e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "9ae879f3-2cbf-445f-896b-79ed617a3e14",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-07-29T10:10:14.181Z"
+  },
+  {
+    "id": "7b99b718-f35b-4537-967f-f6bf5d85776e",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "55cfb1e1-016a-498c-ab83-dede2a757862",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-07-29T11:42:15.134Z"
+  },
+  {
+    "id": "027ce897-4ee4-45ab-9ee6-ca7ad7ed987d",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "9ae879f3-2cbf-445f-896b-79ed617a3e14",
+    "actor": "Elisa Rocha",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-07-29T19:47:33.223Z"
+  },
+  {
+    "id": "165adb47-c114-4a83-887f-710c3528dbf3",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "3ececcc5-7ae0-4e0a-9321-02fd60dc046e",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-30T04:09:17.552Z"
+  },
+  {
+    "id": "d353a5a8-c573-43ca-ac9e-f210b19632c7",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "3ececcc5-7ae0-4e0a-9321-02fd60dc046e",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-07-30T17:15:20.752Z"
+  },
+  {
+    "id": "4b9831f5-7a06-4677-be04-4ad922984bd1",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "9ae879f3-2cbf-445f-896b-79ed617a3e14",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-07-31T06:48:28.758Z"
+  },
+  {
+    "id": "1317f096-86cb-4561-948c-4a91c1e88778",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "9ae879f3-2cbf-445f-896b-79ed617a3e14",
+    "actor": "Elisa Rocha",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-07-31T11:18:44.209Z"
+  },
+  {
+    "id": "febd485e-911c-4c8c-92ce-aa84b88dfa28",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "98385116-424b-46f9-97cf-77db8c11b657",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-01T08:26:03.685Z"
+  },
+  {
+    "id": "86d1a5a5-5a20-4dcf-9e73-283f54de9d84",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "3fe13a8d-331c-4b9d-8279-a52af89fb785",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-01T13:09:45.917Z"
+  },
+  {
+    "id": "b89defd6-126a-42dc-946f-9f660709b2a9",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "731294d7-3f1a-4a49-8906-fcc080de6132",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-02T03:02:44.913Z"
+  },
+  {
+    "id": "853e5660-1e74-4d5e-8d10-ef4455245dda",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "3fe13a8d-331c-4b9d-8279-a52af89fb785",
+    "actor": "Bruno Lima",
+    "reason": "missing_documents",
+    "createdAt": "2026-08-03T11:33:58.035Z"
+  },
+  {
+    "id": "3dbd0909-ea75-433e-aad4-6f63a2b35aaf",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "98385116-424b-46f9-97cf-77db8c11b657",
+    "actor": "Diego Alves",
+    "reason": "missing_documents",
+    "createdAt": "2026-08-03T11:56:33.554Z"
+  },
+  {
+    "id": "19904536-291c-45b0-8a6d-cbb6c32a8b56",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "731294d7-3f1a-4a49-8906-fcc080de6132",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-08-03T12:09:34.494Z"
+  },
+  {
+    "id": "bbda15ba-3b16-4c32-9cbf-c6db77e9f49f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "9ae879f3-2cbf-445f-896b-79ed617a3e14",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-04T00:47:20.312Z"
+  },
+  {
+    "id": "65dfbe83-35c1-4e3b-9043-b55d7a69dddf",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b8a018b5-8d80-45d0-983f-225b2669579b",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-04T09:18:30.752Z"
+  },
+  {
+    "id": "0da4d8ed-3a71-4411-832e-afc9cc574065",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "9ae879f3-2cbf-445f-896b-79ed617a3e14",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-08-04T13:30:54.370Z"
+  },
+  {
+    "id": "41545601-d713-48ff-8ec0-cc5aae7ae1ef",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d12f0a5d-ab39-4450-abe8-bf2ce42f4a01",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-04T16:47:46.017Z"
+  },
+  {
+    "id": "83d907d1-7be9-4c4f-87e0-f2b89796bd04",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b8a018b5-8d80-45d0-983f-225b2669579b",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-08-04T20:59:21.400Z"
+  },
+  {
+    "id": "5eb82f3b-36bd-4ba2-976a-fb9a7b5d5b95",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "d12f0a5d-ab39-4450-abe8-bf2ce42f4a01",
+    "actor": "Diego Alves",
+    "reason": "illegible_documents",
+    "createdAt": "2026-08-05T11:13:17.961Z"
+  },
+  {
+    "id": "9357a960-27a3-4835-adfc-effd7d40a594",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "a381934b-f25f-4e89-bd9e-f88cabbb2270",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-05T16:03:24.374Z"
+  },
+  {
+    "id": "f44c74ed-ebf8-4c19-9915-1c087f274469",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "a381934b-f25f-4e89-bd9e-f88cabbb2270",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-08-05T19:49:13.654Z"
+  },
+  {
+    "id": "4c676122-5468-4783-ac7b-ffab90edc280",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d12f0a5d-ab39-4450-abe8-bf2ce42f4a01",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-06T00:04:24.050Z"
+  },
+  {
+    "id": "335c448d-162e-4daa-987e-33f904db3143",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d12f0a5d-ab39-4450-abe8-bf2ce42f4a01",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-08-06T11:16:50.902Z"
+  },
+  {
+    "id": "7323f694-4d55-433e-92c0-3839ebe9d0d1",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "da60f9a0-0847-46c1-9c6c-8d5024e9f877",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-06T15:21:03.836Z"
+  },
+  {
+    "id": "60209fe5-4b3b-488d-90b4-f2e83a2fc8a5",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c02b3498-32d9-4c14-8527-c35fad12491a",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-06T21:28:23.884Z"
+  },
+  {
+    "id": "4624a50a-d130-45a6-92e4-44e5e6a4dcc9",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "c02b3498-32d9-4c14-8527-c35fad12491a",
+    "actor": "Ana Souza",
+    "reason": "address_not_covered",
+    "createdAt": "2026-08-07T11:48:41.465Z"
+  },
+  {
+    "id": "45d8f48e-daca-4851-b780-2babe68dd138",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "da60f9a0-0847-46c1-9c6c-8d5024e9f877",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-08-07T15:19:32.119Z"
+  },
+  {
+    "id": "c9b302c9-1236-4837-8353-cdcad61f8494",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "bf0dd8ad-e19b-431f-bbcf-3515dee432da",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-09T02:56:01.345Z"
+  },
+  {
+    "id": "1dfb6e80-42a5-4478-bc3f-bc9a88b440e8",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c02b3498-32d9-4c14-8527-c35fad12491a",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-09T10:01:24.891Z"
+  },
+  {
+    "id": "15ce6134-51f1-4e34-9056-cea7c317cf37",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "c02b3498-32d9-4c14-8527-c35fad12491a",
+    "actor": "Ana Souza",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-08-10T11:03:38.681Z"
+  },
+  {
+    "id": "5f0e9481-e9fa-4a6f-8171-0e88e62fdad5",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "4007cd93-169c-4c6c-a271-58dbbcac72b9",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-11T02:57:50.440Z"
+  },
+  {
+    "id": "dac030b4-c886-451c-a7f5-0556ad9e5254",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "4c8698ac-913c-4ce9-8269-6f4d00cb0697",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-11T08:36:21.343Z"
+  },
+  {
+    "id": "2b072c5c-ecfd-4edd-943d-8eba3a1b91fc",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "4c8698ac-913c-4ce9-8269-6f4d00cb0697",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-08-11T11:53:19.596Z"
+  },
+  {
+    "id": "50434829-7463-47a9-a389-bcfa6421d556",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "4007cd93-169c-4c6c-a271-58dbbcac72b9",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-08-11T12:25:22.465Z"
+  },
+  {
+    "id": "234777bc-366e-4d1b-bf87-2ad3a47588a2",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "bf0dd8ad-e19b-431f-bbcf-3515dee432da",
+    "actor": "Bruno Lima",
+    "reason": "incomplete_registration",
+    "createdAt": "2026-08-11T12:29:44.877Z"
+  },
+  {
+    "id": "7b5d371e-b9c5-49f4-8437-4cc3bdcbc006",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c02b3498-32d9-4c14-8527-c35fad12491a",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-11T17:50:46.225Z"
+  },
+  {
+    "id": "1ece78cb-c65e-4954-b047-4ccc785f8b60",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "66b5bf1e-b612-48db-9026-840a9ad97790",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-12T04:22:55.010Z"
+  },
+  {
+    "id": "3a39b482-a18d-4178-acb1-5afcfaab8f5f",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "c02b3498-32d9-4c14-8527-c35fad12491a",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-08-12T11:48:14.040Z"
+  },
+  {
+    "id": "68d47e6a-e06f-4ec4-8e23-c5cd2da5c9a4",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "66b5bf1e-b612-48db-9026-840a9ad97790",
+    "actor": "Elisa Rocha",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-08-12T13:31:09.733Z"
+  },
+  {
+    "id": "c4d0d07b-964a-4567-aaa7-e0895c4fa8a5",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "66b5bf1e-b612-48db-9026-840a9ad97790",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-12T20:35:37.131Z"
+  },
+  {
+    "id": "b428a795-6b9f-41fc-94dc-5ab8d58efece",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "66b5bf1e-b612-48db-9026-840a9ad97790",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-08-13T11:23:24.169Z"
+  },
+  {
+    "id": "3154e29c-00b3-40c6-b232-7297227ae725",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "1b5cb036-8eed-4fb7-8f0a-57216572f175",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-14T01:24:53.818Z"
+  },
+  {
+    "id": "641459e8-fa53-43f9-9cd3-55d93908564e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7956514d-d092-420a-aae1-d49ef7bc35ec",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-14T14:10:27.437Z"
+  },
+  {
+    "id": "63eb9dd5-6a7b-43b4-9ab2-f7596d21e7d0",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "622560ad-5d54-4ffc-bb3a-375a29d981cb",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-14T14:36:23.819Z"
+  },
+  {
+    "id": "e378da8b-c4b4-4bae-85cb-98246a65cc32",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "622560ad-5d54-4ffc-bb3a-375a29d981cb",
+    "actor": "Elisa Rocha",
+    "reason": "illegible_documents",
+    "createdAt": "2026-08-14T16:28:10.877Z"
+  },
+  {
+    "id": "f566ede9-b92b-4589-94c2-f95e6f745a82",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "98385116-424b-46f9-97cf-77db8c11b657",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-14T19:38:52.110Z"
+  },
+  {
+    "id": "453c56b6-60b9-4c20-8de6-1eef21cf4421",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "469c1b8c-d8e6-4684-ba45-afbaed049a54",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-15T00:40:36.390Z"
+  },
+  {
+    "id": "d4963265-22b9-4a31-bb31-2c3429055e8b",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b811719c-5679-47d7-b3d0-bea95569e2f6",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-15T05:07:53.932Z"
+  },
+  {
+    "id": "4f696591-1c19-4fd0-8c49-5335386dd00e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d074842e-7735-45f9-a74a-0d4f0b48bd23",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-16T19:47:52.195Z"
+  },
+  {
+    "id": "910058f8-5f91-4d30-8a42-2b98f532f1cd",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "98385116-424b-46f9-97cf-77db8c11b657",
+    "actor": "Diego Alves",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-08-17T11:09:53.397Z"
+  },
+  {
+    "id": "3fa40494-a479-4f8f-bb06-108baf77c002",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b811719c-5679-47d7-b3d0-bea95569e2f6",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-08-17T11:14:09.456Z"
+  },
+  {
+    "id": "75427c1c-2923-4d90-bb39-6d3d73b696aa",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d074842e-7735-45f9-a74a-0d4f0b48bd23",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-08-17T11:15:39.612Z"
+  },
+  {
+    "id": "d1258101-abaa-4367-9600-d9543dd6f160",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "1b5cb036-8eed-4fb7-8f0a-57216572f175",
+    "actor": "Bruno Lima",
+    "reason": "address_not_covered",
+    "createdAt": "2026-08-17T11:17:14.938Z"
+  },
+  {
+    "id": "6343e17e-be73-403b-a69a-8342d2fe36e0",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "7956514d-d092-420a-aae1-d49ef7bc35ec",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-08-17T11:50:51.409Z"
+  },
+  {
+    "id": "614b3077-3b4e-4d53-94bc-6de9acc40053",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d453aee0-4b5b-4e87-b0ef-314ee46e93e1",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-17T12:03:32.789Z"
+  },
+  {
+    "id": "ec24bf30-0641-42c8-a5e3-1a197c7451b0",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "469c1b8c-d8e6-4684-ba45-afbaed049a54",
+    "actor": "Bruno Lima",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-08-17T12:21:31.664Z"
+  },
+  {
+    "id": "2ba3da95-6bee-4eed-b484-059aac27d637",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "d453aee0-4b5b-4e87-b0ef-314ee46e93e1",
+    "actor": "Bruno Lima",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-08-17T14:53:44.845Z"
+  },
+  {
+    "id": "e4d47dd2-d5c4-4c55-9951-7e98ef4cc805",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "1b5cb036-8eed-4fb7-8f0a-57216572f175",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-17T18:40:44.025Z"
+  },
+  {
+    "id": "3ac4b75e-d39d-4bf8-980f-b878c020e20a",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d35eacec-50dd-48f7-b052-284a0c455605",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-18T04:48:22.174Z"
+  },
+  {
+    "id": "2e26696f-4fb2-4e28-8bee-d877bf6f744f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f05a7cc5-7f71-4dc2-96c4-eb9c554d10a0",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-18T06:09:31.774Z"
+  },
+  {
+    "id": "bab21281-598f-49a4-a546-11cb6d94ba54",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "d35eacec-50dd-48f7-b052-284a0c455605",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-08-18T11:08:50.964Z"
+  },
+  {
+    "id": "17d49765-d102-426b-8412-0f7ec302eacc",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "1b5cb036-8eed-4fb7-8f0a-57216572f175",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-08-18T11:23:41.472Z"
+  },
+  {
+    "id": "238aad70-5904-4651-bb76-1b0617e9d0e3",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "f05a7cc5-7f71-4dc2-96c4-eb9c554d10a0",
+    "actor": "Carla Mendes",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-08-18T13:13:09.289Z"
+  },
+  {
+    "id": "3c899bbd-edf9-413d-bc66-4d06261d364d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "98385116-424b-46f9-97cf-77db8c11b657",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-18T14:08:10.178Z"
+  },
+  {
+    "id": "3fa59b26-31ae-408f-9f98-15dcacafaa87",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b811719c-5679-47d7-b3d0-bea95569e2f6",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-18T17:13:35.068Z"
+  },
+  {
+    "id": "239aa234-8efb-4ef9-9ead-273063102282",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "98385116-424b-46f9-97cf-77db8c11b657",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-08-18T19:54:07.177Z"
+  },
+  {
+    "id": "72ace4f9-827f-4681-8106-e02df29ce383",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b9f360d9-4c1b-4648-a75d-9851b242f5d5",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-19T07:26:25.885Z"
+  },
+  {
+    "id": "289cf2c3-105f-4061-8c9a-d9e4f76cfaf4",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "469c1b8c-d8e6-4684-ba45-afbaed049a54",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-19T09:08:37.857Z"
+  },
+  {
+    "id": "318faea7-0959-4f10-ba84-0d3101814652",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "469c1b8c-d8e6-4684-ba45-afbaed049a54",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-08-19T11:47:00.477Z"
+  },
+  {
+    "id": "4605279b-fd15-45ed-91cc-e05e94306e13",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b9f360d9-4c1b-4648-a75d-9851b242f5d5",
+    "actor": "Carla Mendes",
+    "reason": "illegible_documents",
+    "createdAt": "2026-08-19T12:12:12.389Z"
+  },
+  {
+    "id": "5ebfaa5d-ee6d-435b-898f-6b88bc5dcd96",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b811719c-5679-47d7-b3d0-bea95569e2f6",
+    "actor": "Diego Alves",
+    "reason": "incomplete_registration",
+    "createdAt": "2026-08-19T15:18:06.826Z"
+  },
+  {
+    "id": "32ca46ab-7db5-404b-a94b-34531cf75917",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "71d6ac83-45b9-460c-bd48-55eab4fc3549",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-19T22:10:27.508Z"
+  },
+  {
+    "id": "dc07a035-2f01-4290-a479-40bc60e92c30",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d35eacec-50dd-48f7-b052-284a0c455605",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-20T05:45:34.814Z"
+  },
+  {
+    "id": "4cc2f262-de88-4904-9234-9cc2d515439e",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "71d6ac83-45b9-460c-bd48-55eab4fc3549",
+    "actor": "Ana Souza",
+    "reason": "illegible_documents",
+    "createdAt": "2026-08-20T11:26:45.935Z"
+  },
+  {
+    "id": "96663ed3-80df-4995-9250-9aa0385014f6",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "37456b6d-5d23-4588-803d-7b31cce08bb1",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-20T13:24:50.507Z"
+  },
+  {
+    "id": "ef50ef79-0220-4bb1-ba46-44012cbd11ea",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "d35eacec-50dd-48f7-b052-284a0c455605",
+    "actor": "Carla Mendes",
+    "reason": "unpaid_invoice",
+    "createdAt": "2026-08-20T14:43:42.188Z"
+  },
+  {
+    "id": "b5e63f96-9690-4c49-9fc1-e7414c46893c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b9f360d9-4c1b-4648-a75d-9851b242f5d5",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-20T20:23:15.215Z"
+  },
+  {
+    "id": "38fec34a-3ab1-4716-a168-6edb619d6df1",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b811719c-5679-47d7-b3d0-bea95569e2f6",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-21T07:08:21.767Z"
+  },
+  {
+    "id": "7d4f2e23-3d67-49d3-8e9e-64050063cb60",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b9f360d9-4c1b-4648-a75d-9851b242f5d5",
+    "actor": "Carla Mendes",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-08-21T11:04:04.169Z"
+  },
+  {
+    "id": "403d9713-55fc-4ecb-ab06-45baeb738aaa",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "37456b6d-5d23-4588-803d-7b31cce08bb1",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-08-21T11:48:11.714Z"
+  },
+  {
+    "id": "a7abd47c-4e88-4516-8d83-eecc6e558a00",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b811719c-5679-47d7-b3d0-bea95569e2f6",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-08-21T12:24:28.897Z"
+  },
+  {
+    "id": "81156667-614e-4079-83c7-da77a9a5a15e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d35eacec-50dd-48f7-b052-284a0c455605",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-21T15:27:37.576Z"
+  },
+  {
+    "id": "6c92af13-d70d-4edc-bc33-9eae3e82f556",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d35eacec-50dd-48f7-b052-284a0c455605",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-08-21T15:50:34.397Z"
+  },
+  {
+    "id": "4996d5b0-35fe-4941-b889-385a61ec3908",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5035c870-851b-4555-914d-9ee497653d7f",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-22T02:57:21.214Z"
+  },
+  {
+    "id": "4eaf8d58-572b-434e-b9aa-344343b49986",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "ed7bbe09-3069-4f8b-9091-5a0fa666f07c",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-22T03:58:31.903Z"
+  },
+  {
+    "id": "b8752fa7-49ff-48b9-8164-691b972d22c4",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f05a7cc5-7f71-4dc2-96c4-eb9c554d10a0",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-22T08:54:56.054Z"
+  },
+  {
+    "id": "7efe0f4b-e6b1-41db-b3da-c885a437d820",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b9f360d9-4c1b-4648-a75d-9851b242f5d5",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-23T14:01:56.073Z"
+  },
+  {
+    "id": "a44dd419-681e-41df-a527-42582381e4bf",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "622560ad-5d54-4ffc-bb3a-375a29d981cb",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-23T23:22:31.309Z"
+  },
+  {
+    "id": "556e79e5-564e-4784-be94-1d8f9b9db6be",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "622560ad-5d54-4ffc-bb3a-375a29d981cb",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-08-24T11:24:20.029Z"
+  },
+  {
+    "id": "92d74b0c-98c0-4aa2-8bac-f4c8c96d5c2c",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "5035c870-851b-4555-914d-9ee497653d7f",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-08-24T11:32:30.973Z"
+  },
+  {
+    "id": "8925105d-8fad-4ee4-940a-0d4224999ccd",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "f05a7cc5-7f71-4dc2-96c4-eb9c554d10a0",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-08-24T11:54:58.684Z"
+  },
+  {
+    "id": "ff106b18-8680-4312-bab6-07c587a35e30",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b9f360d9-4c1b-4648-a75d-9851b242f5d5",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-08-24T12:15:51.599Z"
+  },
+  {
+    "id": "7b2cfa1a-dc6a-412b-9493-c3ec55997fdb",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "ed7bbe09-3069-4f8b-9091-5a0fa666f07c",
+    "actor": "Carla Mendes",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-08-24T12:16:15.060Z"
+  },
+  {
+    "id": "64a78e5d-0b53-45a1-89d6-cbf7ad02df07",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "c196bfc6-ec35-45e3-9a3f-268b308a9524",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-26T06:00:06.924Z"
+  },
+  {
+    "id": "ff87de68-aadd-46e3-bc7a-a6d6cd55f46e",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "074187a0-c92b-4928-ac27-d8a83a5e4c35",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-26T06:35:18.371Z"
+  },
+  {
+    "id": "d5f83fa8-d9c3-4c69-8e25-ca575bbd4524",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "074187a0-c92b-4928-ac27-d8a83a5e4c35",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-08-26T14:39:22.928Z"
+  },
+  {
+    "id": "d9124398-88f5-43e7-a2e6-5c91924cf24a",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "c196bfc6-ec35-45e3-9a3f-268b308a9524",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-08-26T15:56:30.866Z"
+  },
+  {
+    "id": "1075a520-fa1d-4289-b826-53e7d9ec7e51",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f05a7cc5-7f71-4dc2-96c4-eb9c554d10a0",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-08-28T14:41:17.869Z"
+  },
+  {
+    "id": "8af873bf-9737-479b-8684-8c1cd23094ce",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "f05a7cc5-7f71-4dc2-96c4-eb9c554d10a0",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-08-28T16:21:50.572Z"
+  },
+  {
+    "id": "b7eec6a0-92c6-4dcf-9ee6-7a33a4e2e481",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e26a1972-8989-4028-96c2-318000651b12",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-29T00:40:39.802Z"
+  },
+  {
+    "id": "24d9812a-32b1-48aa-8a04-808ebcc4421d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "cb6d40db-5267-4850-936f-2933875f7fdf",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-30T05:56:30.782Z"
+  },
+  {
+    "id": "bc890ee6-bb6a-4132-a597-4161ef2e2999",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f68c4116-ee35-489e-83db-6803d2b29587",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-30T21:40:22.339Z"
+  },
+  {
+    "id": "97dd8be7-956c-41a1-87e4-7757c869af5c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "8a00731a-543c-4a0f-81b6-62308d310916",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-31T00:36:43.799Z"
+  },
+  {
+    "id": "d12ff51d-c875-42d2-a792-ac017b6284c5",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "8a00731a-543c-4a0f-81b6-62308d310916",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-08-31T11:35:20.182Z"
+  },
+  {
+    "id": "5bc4d720-8274-459b-9e4b-80b6aaf05072",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "cb6d40db-5267-4850-936f-2933875f7fdf",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-08-31T11:39:02.297Z"
+  },
+  {
+    "id": "f284c41a-0f4e-47ef-b22c-3702b1878e0e",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "e26a1972-8989-4028-96c2-318000651b12",
+    "actor": "Elisa Rocha",
+    "reason": "missing_documents",
+    "createdAt": "2026-08-31T11:55:14.550Z"
+  },
+  {
+    "id": "afda2422-7121-4fae-a88c-3fdab6d971c8",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "f68c4116-ee35-489e-83db-6803d2b29587",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-08-31T12:21:34.173Z"
+  },
+  {
+    "id": "9e41614b-8abe-4a22-adfe-48b4fb663ccb",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "aab07af5-f5e6-449d-9aac-eef11103cc04",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-31T15:34:58.426Z"
+  },
+  {
+    "id": "08ea75a6-fb12-4590-9fa1-cb22f12793aa",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b3035a3e-f032-41ca-acaa-4d8de0eedb46",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-31T16:00:20.469Z"
+  },
+  {
+    "id": "1f56a19f-9b41-42e7-be05-b07c46b0f95f",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "aab07af5-f5e6-449d-9aac-eef11103cc04",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-08-31T17:24:44.548Z"
+  },
+  {
+    "id": "8270b216-74e7-4119-9432-89c4e55602e7",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7b684509-a821-42aa-be2a-d6d3c576ca51",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-08-31T18:21:37.506Z"
+  },
+  {
+    "id": "9c4a9787-8bec-4b4f-9607-eb4dcc77381c",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b3035a3e-f032-41ca-acaa-4d8de0eedb46",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-08-31T19:07:53.727Z"
+  },
+  {
+    "id": "c822ba15-9ecc-4853-bf88-25281314d2c9",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "e26a1972-8989-4028-96c2-318000651b12",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-01T07:26:07.010Z"
+  },
+  {
+    "id": "a1a957af-bbeb-4f65-93af-fcbd69e8ed61",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "4aa96431-9bbd-4009-816c-63bc623a3676",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-09-01T08:25:12.983Z"
+  },
+  {
+    "id": "d3f48678-1998-43a7-875e-0ef4b42cc542",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "7b684509-a821-42aa-be2a-d6d3c576ca51",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-09-01T11:09:00.360Z"
+  },
+  {
+    "id": "9dabe4f3-b5f9-4628-98f7-ebe76eb8a767",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "4aa96431-9bbd-4009-816c-63bc623a3676",
+    "actor": "Elisa Rocha",
+    "reason": "illegible_documents",
+    "createdAt": "2026-09-01T11:29:29.666Z"
+  },
+  {
+    "id": "55a53f31-8cf8-495b-8451-b8477de33c97",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "e26a1972-8989-4028-96c2-318000651b12",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-09-01T11:32:45.542Z"
+  },
+  {
+    "id": "5edda488-2403-41e4-9dd1-319224a5c770",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d453aee0-4b5b-4e87-b0ef-314ee46e93e1",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-01T18:47:15.459Z"
+  },
+  {
+    "id": "41dafbbb-d0a0-4af8-ab37-03ea2ef4ffa2",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "d453aee0-4b5b-4e87-b0ef-314ee46e93e1",
+    "actor": "Bruno Lima",
+    "reason": "incomplete_registration",
+    "createdAt": "2026-09-02T11:20:08.010Z"
+  },
+  {
+    "id": "038f7a79-1a0a-44c2-9bfc-ae67c428e593",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "d453aee0-4b5b-4e87-b0ef-314ee46e93e1",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-03T05:48:09.677Z"
+  },
+  {
+    "id": "bd62d361-934e-4d02-a65b-6d208e08f67b",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "d453aee0-4b5b-4e87-b0ef-314ee46e93e1",
+    "actor": "Diego Alves",
+    "reason": null,
+    "createdAt": "2026-09-03T11:01:50.226Z"
+  },
+  {
+    "id": "191557d4-e694-464e-b1a9-7210cc0afb5d",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "cb6d40db-5267-4850-936f-2933875f7fdf",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-03T22:15:44.996Z"
+  },
+  {
+    "id": "ca27518e-7263-4c28-96db-f461f65711f6",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "cb6d40db-5267-4850-936f-2933875f7fdf",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-09-04T11:27:34.749Z"
+  },
+  {
+    "id": "a9c6fa60-ffba-41d6-9ed8-c71f5ab21109",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f68c4116-ee35-489e-83db-6803d2b29587",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-05T13:51:33.834Z"
+  },
+  {
+    "id": "5d0908e4-1ac9-4aa5-804a-e887cc7d35b0",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5ee0d0d8-db6d-4d8b-9c05-82eccd99a40a",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-09-05T14:31:27.468Z"
+  },
+  {
+    "id": "e3fac3b9-c236-4f0e-a99d-9d1c2d9aa232",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "52b5a65b-b012-442e-beaf-0efeb2b7b108",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-09-06T15:27:06.208Z"
+  },
+  {
+    "id": "e15fd681-7b82-4ae4-8446-38a9a572a773",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "5ee0d0d8-db6d-4d8b-9c05-82eccd99a40a",
+    "actor": "Carla Mendes",
+    "reason": "missing_documents",
+    "createdAt": "2026-09-07T11:07:59.575Z"
+  },
+  {
+    "id": "d6eba926-4d49-48ca-b246-d02a9297876a",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "52b5a65b-b012-442e-beaf-0efeb2b7b108",
+    "actor": "Elisa Rocha",
+    "reason": "illegible_documents",
+    "createdAt": "2026-09-07T11:56:40.864Z"
+  },
+  {
+    "id": "c0bfaa7b-6fb6-49b3-b6cc-5e2c7484a5ab",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "f68c4116-ee35-489e-83db-6803d2b29587",
+    "actor": "Carla Mendes",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-09-07T12:27:31.675Z"
+  },
+  {
+    "id": "4cd91369-ec34-49d4-bcb5-1e6a0e881563",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "dac26641-0349-4774-a97b-24bcca9cce47",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-09-07T22:17:18.642Z"
+  },
+  {
+    "id": "56e5adfb-55a2-4536-9d80-dee47edbfa63",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b8f9691d-a4ca-4167-90d0-dff84ce2942a",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-09-08T10:55:07.834Z"
+  },
+  {
+    "id": "f0e58f1b-e7b2-4d62-aa5d-4a33b12ebd6f",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "dac26641-0349-4774-a97b-24bcca9cce47",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-09-08T11:07:33.090Z"
+  },
+  {
+    "id": "4eb721a5-dc04-47b5-9490-ff25bac35bf5",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "52b5a65b-b012-442e-beaf-0efeb2b7b108",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-08T19:07:15.354Z"
+  },
+  {
+    "id": "4afd3044-f266-4eba-b575-d44a99351c14",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "52b5a65b-b012-442e-beaf-0efeb2b7b108",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-09-08T20:59:27.984Z"
+  },
+  {
+    "id": "abdac05c-4c91-4525-8516-28ba31b1fc33",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "b8f9691d-a4ca-4167-90d0-dff84ce2942a",
+    "actor": "Carla Mendes",
+    "reason": "illegible_documents",
+    "createdAt": "2026-09-09T15:37:39.236Z"
+  },
+  {
+    "id": "e8ea93b8-57ed-41e2-aa0a-28ab0a33a0db",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "f68c4116-ee35-489e-83db-6803d2b29587",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-10T07:59:57.432Z"
+  },
+  {
+    "id": "331b4401-39f3-494f-a478-89039cce73c7",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "f68c4116-ee35-489e-83db-6803d2b29587",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-09-10T12:03:32.440Z"
+  },
+  {
+    "id": "84457ae7-ae19-48c2-8baf-2d64a83a8593",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "2d95b02e-9592-4772-9b37-99d43a6afe3e",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-09-12T00:41:48.564Z"
+  },
+  {
+    "id": "ec3e31a1-db83-4c83-818a-59eeb884ca3c",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5ade067f-6ecc-48e0-a072-0ce4bd00d964",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-09-12T03:32:15.933Z"
+  },
+  {
+    "id": "a38cb830-78b4-445f-a819-e39272061d63",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "b8f9691d-a4ca-4167-90d0-dff84ce2942a",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-12T19:57:52.306Z"
+  },
+  {
+    "id": "0a065af3-84a5-4696-9df0-a62d337830db",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "33125b7d-7199-4c74-b3a0-eec8de5b7e80",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-09-13T08:39:17.478Z"
+  },
+  {
+    "id": "b07c9513-9fba-41ff-afc7-8ff6189b05da",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0bb541e8-33d1-4e7f-80ab-7a33f8303b16",
+    "actor": "customer",
+    "reason": "initial_request",
+    "createdAt": "2026-09-13T09:18:43.334Z"
+  },
+  {
+    "id": "a33f42de-b1ef-43cf-9258-e07fd2c56826",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "0bb541e8-33d1-4e7f-80ab-7a33f8303b16",
+    "actor": "Ana Souza",
+    "reason": "missing_documents",
+    "createdAt": "2026-09-14T11:14:23.313Z"
+  },
+  {
+    "id": "589c2dda-334f-4c4f-a08b-e649743c7664",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "33125b7d-7199-4c74-b3a0-eec8de5b7e80",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-09-14T11:15:33.292Z"
+  },
+  {
+    "id": "d353c15d-62c4-483a-a3dc-a742049c6d2e",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "2d95b02e-9592-4772-9b37-99d43a6afe3e",
+    "actor": "Diego Alves",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-09-14T11:15:34.460Z"
+  },
+  {
+    "id": "d849857e-887b-4db7-991c-66868d9472cb",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "b8f9691d-a4ca-4167-90d0-dff84ce2942a",
+    "actor": "Carla Mendes",
+    "reason": null,
+    "createdAt": "2026-09-14T11:20:13.480Z"
+  },
+  {
+    "id": "22b6e534-baac-4e6f-8528-d83e38806788",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "5ade067f-6ecc-48e0-a072-0ce4bd00d964",
+    "actor": "Bruno Lima",
+    "reason": "illegible_documents",
+    "createdAt": "2026-09-14T12:25:18.512Z"
+  },
+  {
+    "id": "61a2ea3d-1b05-4bfc-ac60-b170c670f0ef",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5ade067f-6ecc-48e0-a072-0ce4bd00d964",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-15T13:53:04.185Z"
+  },
+  {
+    "id": "6ed364ba-a187-40f4-b2fc-c29f699caf17",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "5ade067f-6ecc-48e0-a072-0ce4bd00d964",
+    "actor": "Bruno Lima",
+    "reason": null,
+    "createdAt": "2026-09-15T16:04:57.918Z"
+  },
+  {
+    "id": "455fcff8-c8a6-4aee-837c-7a6bd5141a07",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "0bb541e8-33d1-4e7f-80ab-7a33f8303b16",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-16T00:34:00.236Z"
+  },
+  {
+    "id": "afdb7cab-0f4a-4033-a318-2d8c120dfa65",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "0bb541e8-33d1-4e7f-80ab-7a33f8303b16",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-09-16T11:00:41.893Z"
+  },
+  {
+    "id": "839c2c8a-9c3f-4a8f-ae90-15b9fac18e0f",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5ee0d0d8-db6d-4d8b-9c05-82eccd99a40a",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-24T14:09:35.029Z"
+  },
+  {
+    "id": "d1b90f3a-3fa8-41ba-8ebf-4d8ba872e4e8",
+    "status": "reproved",
+    "type": "register",
+    "parent_id": "5ee0d0d8-db6d-4d8b-9c05-82eccd99a40a",
+    "actor": "Ana Souza",
+    "reason": "holder_data_mismatch",
+    "createdAt": "2026-09-24T17:46:40.813Z"
+  },
+  {
+    "id": "8aef5c5c-88fc-4898-bd5f-e9bad36c7f85",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "5ee0d0d8-db6d-4d8b-9c05-82eccd99a40a",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-09-25T04:53:55.380Z"
+  },
+  {
+    "id": "a21c4a89-eed0-4426-8174-f271c1e6a547",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "5ee0d0d8-db6d-4d8b-9c05-82eccd99a40a",
+    "actor": "Ana Souza",
+    "reason": null,
+    "createdAt": "2026-09-25T11:39:56.404Z"
+  },
+  {
+    "id": "357d234f-aa84-44a5-b138-93679980496b",
+    "status": "under_analysis",
+    "type": "register",
+    "parent_id": "7c8bfb99-7857-49c0-b1a3-aeac989ea444",
+    "actor": "customer",
+    "reason": "resubmission",
+    "createdAt": "2026-10-05T00:44:50.461Z"
+  },
+  {
+    "id": "2fd1810a-ae05-4729-874c-ed9a4f86159c",
+    "status": "approved",
+    "type": "register",
+    "parent_id": "7c8bfb99-7857-49c0-b1a3-aeac989ea444",
+    "actor": "Elisa Rocha",
+    "reason": null,
+    "createdAt": "2026-10-09T11:47:03.745Z"
+  }
+]

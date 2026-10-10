@@ -208,5 +208,15 @@
     "createdAt": "2026-08-29T08:00:00.000Z",
     "updatedAt": "2026-08-29T08:00:00.000Z",
     "deleted": true
+  },
+  {
+    "id": "c4ab6542-9e02-4e41-a46c-9eb13f265399",
+    "type": "promotional",
+    "coupon": "TESTE50",
+    "discountAmount": 50,
+    "name": "teste",
+    "createdAt": "2026-10-10T14:10:48.697Z",
+    "updatedAt": "2026-10-10T14:16:25.797Z",
+    "deleted": true
   }
 ]
